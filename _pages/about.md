@@ -37,8 +37,9 @@ January 2024
 • Thrilled to announce that I will be joining [Cornell University](https://www.cornell.edu/) as a Postdoctoral Associate at the [Department of Global Development](https://cals.cornell.edu/global-development). I will collaborate with [Dr. Chuan Liao](https://cals.cornell.edu/chuan-liao) on pioneering sustainability research using advanced data-model techniques. Looking forward to the new adventure ahead!
 
 Publications
-(*corresponding author, #co-first author)
 ======
+(*corresponding author, #co-first author)
+
 Articles under consideration
 ------
 1.	**Ying Tu**, Shengbiao Wu, Bin Chen, Qihao Weng, Peng Gong, Yuqi Bai, Jun Yang, Le Yu, and Bing Xu*. [A 30 m annual cropland dataset of China from 1986 to 2021.](https://doi.org/10.5194/essd-2023-190) Earth System Science Data Discussion.
