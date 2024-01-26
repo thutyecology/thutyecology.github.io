@@ -10,6 +10,7 @@ redirect_from:
 I am currently a Ph.D. Candidate at the [Department of Earth System Science, Tsinghua University](https://www.dess.tsinghua.edu.cn/){:target="_blank"}, with an anticipated graduation date in April 2024. As of May 2024, I will join as a Postdoctoral Associate at the [Department of Global Development, Cornell University](https://cals.cornell.edu/global-development){:target="_blank"}. I earned my B.S. degree in Geographical Information Science from Sun Yat-sen University in 2019. My research interests focus on combining remote sensing and AI for sustainability development.
 
 
+
 Research Interests
 ======
 • Remote Sensing of Land Cover/Land Use Change Monitoring  
@@ -17,6 +18,7 @@ Research Interests
 • Urban-Rural Development and Policy Evaluation  
 • Environmental Exposure, Justice, and Health  
 • Sustainable Development Goals (SDGs)
+
 
 
 Education
@@ -28,6 +30,7 @@ August 2015 – June 2019
 **B.S. in Geographic Information Science**, Sun Yat-sen University
 
 
+
 Recent News 
 ======
 
@@ -36,17 +39,18 @@ January 2024
 • Thrilled to announce that I will be joining **Cornell University** as a Postdoctoral Associate at the [Department of Global Development](https://cals.cornell.edu/global-development){:target="_blank"}, [College of Agriculture and Life Sciences](https://cals.cornell.edu/){:target="_blank"}. I will collaborate with [Dr. Chuan Liao](https://cals.cornell.edu/chuan-liao){:target="_blank"} on pioneering sustainability research using advanced data-model techniques. Looking forward to the new adventure ahead!
 
 
+
 Publications
 ======
 ***corresponding author, #co-first author**
 
-Articles under consideration
+Articles Under Consideration
 ------
 1.	**Ying Tu**, Shengbiao Wu, Bin Chen, Qihao Weng, Peng Gong, Yuqi Bai, Jun Yang, Le Yu, and Bing Xu*. A 30 m annual cropland dataset of China from 1986 to 2021. *Earth System Science Data Discussion*. [Preprint](https://doi.org/10.5194/essd-2023-190){:target="_blank"}
 2.	**Ying Tu**, Bin Chen*, Shengbiao Wu, Jiafu An, Chen Lin, Peng Gong, and Bing Xu*. Contrasting difference in human access to socio-economic-environmental infrastructure between Global North and Global South. (To be submitted).
 4.	Bin Chen#, **Ying Tu#**, Jiafu An#, Shengbiao Wu, Chen Lin*, and Peng Gong*. Assessing Impacts of the Russia-Ukraine Conflict on Agricultural Production using Publicly Available Satellite Imagery. *Communications Earth & Environment*. (Under review).
 
-Articles in peer-reviewed journals
+Articles in Peer-reviewed Journals
 ------
 1.	**Ying Tu**, Bin Chen\*, Le Yu, Yimeng Song, Shengbiao Wu, Miao Li, Hong Wei, Tingting Chen, Wei Lang, Peng Gong, and Bing Xu\*. [Raveling the nexus between urban expansion and cropland loss in China.](https://link.springer.com/article/10.1007/s10980-023-01653-7){:target="_blank"} *Landscape Ecology* (2023): 1-16.
 2.	**Ying Tu#**, Bin Chen#\*, Jun Yang, and Bing Xu\*. [Olympic effects on reshaping urban greenspace of host cities.](https://doi.org/10.1016/j.landurbplan.2022.104615){:target="_blank"} *Landscape and Urban Planning* 230 (2023): 104615.
@@ -65,10 +69,11 @@ Articles in peer-reviewed journals
 15.	Ruiyun Li#, Bin Chen#, Tao Zhang, …, **Ying Tu** ..., and Bing Xu*. [Global COVID-19 pandemic demands joint interventions for the suppression of future waves.](https://www.pnas.org/doi/abs/10.1073/pnas.2012002117){:target="_blank"} *Proceedings of the National Academy of Sciences* 117, no. 42 (2020): 26151-26157.
 16.	Peng Gong\*, Bin Chen, Xuecao Li, …, **Ying Tu** ..., and Bing Xu\*. [Mapping essential urban land use categories in China (EULUC-China): preliminary results for 2018.](https://doi.org/10.1016/j.scib.2019.12.007){:target="_blank"} *Science Bulletin* 65, no. 3 (2020): 182-187.
 
-Conference proceedings
+Conference Proceedings
 ------
 1.	**Ying Tu**, Bin Chen, Le Yu, Qinchuan Xin, Peng Gong, and Bing Xu*. [Urban-Expansion Driven Farmland Loss Follows with the Environmental Kuznets Curve Hypothesis: Evidence from Temporal Analysis in Beijing, China.](https://link.springer.com/chapter/10.1007/978-981-15-6106-1_29){:target="_blank"} In *Geoinformatics in Sustainable Ecosystem and Society*, pp. 394-412. Springer, Singapore, 2019.
 2.	Shengjie Liu, Haowen Luo, **Ying Tu**, Zhi He, and Jun Li*. [Wide contextual residual network with active learning for remote sensing image classification.](https://ieeexplore.ieee.org/abstract/document/8517855){:target="_blank"} In *IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium*, pp. 7145-7148. IEEE, 2018.
+
 
 
 Appointments
