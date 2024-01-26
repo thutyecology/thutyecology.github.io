@@ -12,9 +12,13 @@ I am currently a Ph.D. Candidate at the [Department of Earth System Science, Tsi
 Research Interests
 ======
 • Remote Sensing of Land Cover/Land Use Change Monitoring
+
 • Geospatial Big Data Mining and Analytics
+
 • Urban-Rural Development and Policy Evaluation
+
 • Environmental Exposure, Justice, and Health
+
 • Sustainable Development Goals (SDGs)
 
 Education
