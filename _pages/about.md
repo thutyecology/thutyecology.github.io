@@ -20,20 +20,20 @@ Research Interests
 Education
 ======
 August 2019 – April 2024 (Expected)  
-• **Ph.D. in Ecology**, Tsinghua University (Advisor: Prof. Bing Xu)
+**Ph.D. in Ecology**, Tsinghua University (Advisor: Prof. Bing Xu)
 
 August 2015 – June 2019  
-• **B.S. in Geographic Information Science**, Sun Yat-sen University  
+**B.S. in Geographic Information Science**, Sun Yat-sen University
 
 Appointments
 ======
 August 2022 – August 2023  
-• **Research Assistant**, The University of Hong Kong (Co-Advisor: Dr. Bin Chen)
+*Research Assistant*, The University of Hong Kong (Co-Advisor: Dr. Bin Chen)
 
 Recent News 
-======
+======  
 January 2024
-------
+------  
 • Thrilled to announce that I will be joining **Cornell University** as a Postdoctoral Associate at the [Department of Global Development](https://cals.cornell.edu/global-development), [College of Agriculture and Life Sciences](https://cals.cornell.edu/). I will collaborate with [Dr. Chuan Liao](https://cals.cornell.edu/chuan-liao) on pioneering sustainability research using advanced data-model techniques. Looking forward to the new adventure ahead!
 
 Publications
@@ -48,7 +48,7 @@ Articles under consideration
 
 Articles in peer-reviewed journals
 ------
-1.	**Ying Tu**, Bin Chen*, Le Yu, Yimeng Song, Shengbiao Wu, Miao Li, Hong Wei, Tingting Chen, Wei Lang, Peng Gong, and Bing Xu*. [Raveling the nexus between urban expansion and cropland loss in China.](https://link.springer.com/article/10.1007/s10980-023-01653-7) Landscape Ecology (2023): 1-16.
+1.	**Ying Tu**, Bin Chen\*, Le Yu, Yimeng Song, Shengbiao Wu, Miao Li, Hong Wei, Tingting Chen, Wei Lang, Peng Gong, and Bing Xu\*. [Raveling the nexus between urban expansion and cropland loss in China.](https://link.springer.com/article/10.1007/s10980-023-01653-7) Landscape Ecology (2023): 1-16.
 2.	**Ying Tu#**, Bin Chen#*, Jun Yang, and Bing Xu*. [Olympic effects on reshaping urban greenspace of host cities.](https://doi.org/10.1016/j.landurbplan.2022.104615) Landscape and Urban Planning 230 (2023): 104615.
 3.	**Ying Tu**, Bin Chen, Wei Lang, Tingting Chen, Miao Li, Tao Zhang, and Bing Xu*. [Uncovering the Nature of Urban Land Use Composition Using Multi-source Open Big Data with Ensemble Learning.](https://www.mdpi.com/2072-4292/13/21/4241) Remote Sensing 13, no. 21 (2021): 4241.
 4.	**Ying Tu**, Bin Chen, Le Yu, Qinchuan Xin, Peng Gong, and Bing Xu*. [How does urban expansion interact with cropland loss? A comparison of 14 Chinese cities from 1980 to 2015.](https://link.springer.com/article/10.1007%2Fs10980-020-01137-y) Landscape Ecology (2021): 1-21.
