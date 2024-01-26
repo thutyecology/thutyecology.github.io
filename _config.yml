@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ying Tu's Homepage"
+title                    : "Ying Tu"
 title_separator          : "-"
 name                     : "Ying Tu"
 description              : &description "personal description"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Ying Tu"
-  avatar           : "tuying.png"
-  bio              : "Potoral "
-  location         : "Incoming Postdoctoral Associate at Cornell University"
+  avatar           : "/images/tuying.png"
+  bio              : "Incoming Postdoctoral Associate"
+  location         : "Beijing, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=X9TPqKEAAAAJ&hl=en&oi=sra"
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/Ying55437547"
   vine             :
   weibo            :
   xing             :
