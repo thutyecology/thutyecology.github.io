@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ying Tu"
+  name             : "Dr. Ying TU (屠滢)"
   avatar           : "tuying3.png"
-  bio              : "Incoming Postdoctoral Associate"
+  bio              : "Incoming Postdoctoral Associate at Cornell University"
   location         : "Ithaca, NY 14853, USA"
-  employer         : "Cornell University"
+  employer         : #"Cornell University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=X9TPqKEAAAAJ&hl=en&oi=sra"
   email            : "thutyecology@gmail.com"
