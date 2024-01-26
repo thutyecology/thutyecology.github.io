@@ -11,39 +11,30 @@ I am currently a Ph.D. Candidate at the [Department of Earth System Science, Tsi
 
 Research Interests
 ======
-• Remote Sensing of Land Cover/Land Use Change Monitoring
-
-• Geospatial Big Data Mining and Analytics
-
-• Urban-Rural Development and Policy Evaluation
-
-• Environmental Exposure, Justice, and Health
-
+• Remote Sensing of Land Cover/Land Use Change Monitoring  
+• Geospatial Big Data Mining and Analytics  
+• Urban-Rural Development and Policy Evaluation  
+• Environmental Exposure, Justice, and Health  
 • Sustainable Development Goals (SDGs)
 
 Education
 ======
-August 2019 – April 2024 (Expected)  Tsinghua University
+August 2019 – April 2024 (Expected)  
+• **Ph.D. in Ecology**, Tsinghua University (Advisor: Prof. Bing Xu)
 
-Ph.D. in Ecology (Advisor: Prof. Bing Xu)
-
-August 2015 – June 2019  Sun Yat-sen University
-
-B.S. in Geographic Information Science
+August 2015 – June 2019  
+• **B.S. in Geographic Information Science**, Sun Yat-sen University  
 
 Appointments
 ======
-August 2022 – August 2023  The University of Hong Kong
-
-Research Assistant (Co-Advisor: Dr. Bin Chen)
+August 2022 – August 2023  
+• **Research Assistant**, The University of Hong Kong (Co-Advisor: Dr. Bin Chen)
 
 Recent News 
 ======
-
 January 2024
 ------
-
-• Thrilled to announce that I will be joining **Cornell University** as a Postdoctoral Associate at the [Department of Global Development](https://cals.cornell.edu/global-development). I will collaborate with [Dr. Chuan Liao](https://cals.cornell.edu/chuan-liao) on pioneering sustainability research using advanced data-model techniques. Looking forward to the new adventure ahead!
+• Thrilled to announce that I will be joining **Cornell University** as a Postdoctoral Associate at the [Department of Global Development](https://cals.cornell.edu/global-development), [College of Agriculture and Life Sciences](https://cals.cornell.edu/). I will collaborate with [Dr. Chuan Liao](https://cals.cornell.edu/chuan-liao) on pioneering sustainability research using advanced data-model techniques. Looking forward to the new adventure ahead!
 
 Publications
 ======
@@ -51,7 +42,7 @@ Publications
 
 Articles under consideration
 ------
-1.	**Ying Tu**, Shengbiao Wu, Bin Chen, Qihao Weng, Peng Gong, Yuqi Bai, Jun Yang, Le Yu, and Bing Xu*. [A 30 m annual cropland dataset of China from 1986 to 2021.](https://doi.org/10.5194/essd-2023-190) Earth System Science Data Discussion.
+1.	**Ying Tu**, Shengbiao Wu, Bin Chen, Qihao Weng, Peng Gong, Yuqi Bai, Jun Yang, Le Yu, and Bing Xu*. A 30 m annual cropland dataset of China from 1986 to 2021. Earth System Science Data Discussion. [Preprint](https://doi.org/10.5194/essd-2023-190)
 2.	**Ying Tu**, Bin Chen*, Shengbiao Wu, Jiafu An, Chen Lin, Peng Gong, and Bing Xu*. “Contrasting difference in human access to socio-economic-environmental infrastructure between Global North and Global South.”  (To be submitted).
 4.	Bin Chen#, **Ying Tu#**, Jiafu An#, Shengbiao Wu, Chen Lin*, and Peng Gong*. “Assessing Impacts of the Russia-Ukraine Conflict on Agricultural Production using Publicly Available Satellite Imagery.” Communications Earth & Environment. (Under review).
 
