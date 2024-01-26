@@ -38,6 +38,8 @@ January 2024
 
 Publications
 ======
+***corresponding author, #co-first author**
+
 Articles under consideration
 ------
 1.	**Ying Tu**, Shengbiao Wu, Bin Chen, Qihao Weng, Peng Gong, Yuqi Bai, Jun Yang, Le Yu, and Bing Xu*. [A 30 m annual cropland dataset of China from 1986 to 2021.](https://doi.org/10.5194/essd-2023-190) Earth System Science Data Discussion.
@@ -67,8 +69,6 @@ Conference proceedings
 ------
 1.	**Ying Tu**, Bin Chen, Le Yu, Qinchuan Xin, Peng Gong, and Bing Xu*. "Urban-Expansion Driven Farmland Loss Follows with the Environmental Kuznets Curve Hypothesis: Evidence from Temporal Analysis in Beijing, China." In Geoinformatics in Sustainable Ecosystem and Society, pp. 394-412. Springer, Singapore, 2019.
 2.	Shengjie Liu, Haowen Luo, **Ying Tu**, Zhi He, and Jun Li*. "Wide contextual residual network with active learning for remote sensing image classification." In IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium, pp. 7145-7148. IEEE, 2018.
-
-***corresponding author, #co-first author**
 
 **More updates soon**
 
