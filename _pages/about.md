@@ -1,4 +1,4 @@
-![image](https://github.com/thutyecology/thutyecology.github.io/assets/43251726/1345167c-748e-400e-91c8-7b0b5a8fc59b)---
+---
 permalink: /
 title: "About me"
 #excerpt: "About me"
