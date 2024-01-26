@@ -17,7 +17,7 @@ January 2024
 ------
 Thrilled to share that I will be joining Cornell University as a Postdoctoral Associate at the [Department of Global Development](https://cals.cornell.edu/global-development), collaborating with [Dr. Chuan Liao](https://cals.cornell.edu/chuan-liao). Looking forward to the new adventure ahead!
 
-More updates soon
+Publication
 ======
 
 **Markdown generator**
