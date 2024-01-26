@@ -34,7 +34,7 @@ Recent News
 ======
 January 2024
 ------
-• Thrilled to announce that I will be joining [Cornell University](https://www.cornell.edu/) as a Postdoctoral Associate at the [Department of Global Development](https://cals.cornell.edu/global-development). I will collaborate with [Dr. Chuan Liao](https://cals.cornell.edu/chuan-liao) on pioneering sustainability research using advanced data-model techniques. Looking forward to the new adventure ahead!
+• Thrilled to announce that I will be joining **Cornell University** as a Postdoctoral Associate at the [Department of Global Development](https://cals.cornell.edu/global-development). I will collaborate with [Dr. Chuan Liao](https://cals.cornell.edu/chuan-liao) on pioneering sustainability research using advanced data-model techniques. Looking forward to the new adventure ahead!
 
 Publications
 ======
