@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Ying Tu's Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : "Ying Tu"
 description              : &description "personal description"
 url                      : "https://thutyecology.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
