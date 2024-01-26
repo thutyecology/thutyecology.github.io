@@ -48,7 +48,7 @@ Publications
 
 Articles Under Consideration
 ------
-1.	**Ying Tu**, Shengbiao Wu, Bin Chen, Qihao Weng, Peng Gong, Yuqi Bai, Jun Yang, Le Yu, and Bing Xu*. A 30 m annual cropland dataset of China from 1986 to 2021. *Earth System Science Data Discussion*. [Preprint](https://doi.org/10.5194/essd-2023-190){:target="_blank"}
+1.	**Ying Tu**, Shengbiao Wu, Bin Chen, Qihao Weng, Peng Gong, Yuqi Bai, Jun Yang, Le Yu, and Bing Xu\*. A 30 m annual cropland dataset of China from 1986 to 2021. *Earth System Science Data Discussion*. [Preprint](https://doi.org/10.5194/essd-2023-190){:target="_blank"}
 2.	**Ying Tu**, Bin Chen*, Shengbiao Wu, Jiafu An, Chen Lin, Peng Gong, and Bing Xu*. Contrasting difference in human access to socio-economic-environmental infrastructure between Global North and Global South. (To be submitted).
 4.	Bin Chen#, **Ying Tu**\#, Jiafu An#, Shengbiao Wu, Chen Lin\*, and Peng Gong*. Assessing Impacts of the Russia-Ukraine Conflict on Agricultural Production using Publicly Available Satellite Imagery. *Communications Earth & Environment*. (Under review).
 
