@@ -25,11 +25,6 @@ August 2019 – April 2024 (Expected)
 August 2015 – June 2019  
 **B.S. in Geographic Information Science**, Sun Yat-sen University
 
-Appointments
-======
-August 2022 – August 2023  
-**Research Assistant**, The University of Hong Kong (Co-Advisor: Dr. Bin Chen)
-
 Recent News 
 ======  
 January 2024
@@ -70,6 +65,11 @@ Conference proceedings
 ------
 1.	**Ying Tu**, Bin Chen, Le Yu, Qinchuan Xin, Peng Gong, and Bing Xu*. [Urban-Expansion Driven Farmland Loss Follows with the Environmental Kuznets Curve Hypothesis: Evidence from Temporal Analysis in Beijing, China.](https://link.springer.com/chapter/10.1007/978-981-15-6106-1_29){:target="_blank"} In *Geoinformatics in Sustainable Ecosystem and Society*, pp. 394-412. Springer, Singapore, 2019.
 2.	Shengjie Liu, Haowen Luo, **Ying Tu**, Zhi He, and Jun Li*. [Wide contextual residual network with active learning for remote sensing image classification.](https://ieeexplore.ieee.org/abstract/document/8517855){:target="_blank"} In *IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium*, pp. 7145-7148. IEEE, 2018.
+
+Appointments
+======
+August 2022 – August 2023  
+**Research Assistant**, The University of Hong Kong (Co-Advisor: Dr. Bin Chen)
 
 **More updates soon**
 
