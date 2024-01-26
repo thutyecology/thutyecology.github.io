@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Ph.D. Candidate in the [Department of Earth System Science at Tsinghua University](https://www.dess.tsinghua.edu.cn/), with an anticipated graduation date in April 2024. As of May 2024, I will join as a Postdoctoral Associate in the [Department of Global Development at Cornell University](https://cals.cornell.edu/global-development). I earned my B.S. degree in Geographical Information Science from Sun Yat-sen University in 2019. My research interests focus on combining remote sensing and AI for sustainability development.![image](https://github.com/thutyecology/thutyecology.github.io/assets/43251726/19297a16-0a17-4aab-96c9-897d3f4e862f)
+I am currently a Ph.D. Candidate in the [Department of Earth System Science at Tsinghua University](https://www.dess.tsinghua.edu.cn/), with an anticipated graduation date in April 2024. As of May 2024, I will join as a Postdoctoral Associate in the [Department of Global Development at Cornell University](https://cals.cornell.edu/global-development). I earned my B.S. degree in Geographical Information Science from Sun Yat-sen University in 2019. My research interests focus on combining remote sensing and AI for sustainability development.
 
 test test test A data-driven personal website
 ======
