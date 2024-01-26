@@ -12,8 +12,8 @@ title_separator          : "-"
 name                     : "Ying Tu"
 description              : &description "personal description"
 url                      : "https://thutyecology.github.io/"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "thutyecology/thutyecology.github.io"#"academicpages/academicpages.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog" #"academicpages/academicpages.github.io"
+repository               : "thutyecology/thutyecology.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
