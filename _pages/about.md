@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Ying Tu's personal page"
+title: "Ying Tu's homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
