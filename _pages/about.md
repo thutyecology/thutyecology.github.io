@@ -11,16 +11,17 @@ I am currently a Ph.D. Candidate at the [Department of Earth System Science, Tsi
 
 Research Interests
 ======
-Remote Sensing of Land Cover/Land Use Change Monitoring
-Geospatial Big Data Mining and Analytics
-Urban-Rural Development and Policy Evaluation
-Environmental Exposure, Justice, and Health
-Sustainable Development Goals (SDGs)
+• Remote Sensing of Land Cover/Land Use Change Monitoring
+• Geospatial Big Data Mining and Analytics
+• Urban-Rural Development and Policy Evaluation
+• Environmental Exposure, Justice, and Health
+• Sustainable Development Goals (SDGs)
 
 Education
 ======
 August 2019 – April 2024 (Expected)  Tsinghua University
 Ph.D. in Ecology (Advisor: Prof. Bing Xu)
+
 August 2015 – June 2019  Sun Yat-sen University
 B.S. in Geographic Information Science
 
