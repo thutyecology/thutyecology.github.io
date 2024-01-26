@@ -28,12 +28,14 @@ August 2015 – June 2019
 Appointments
 ======
 August 2022 – August 2023  
-*Research Assistant*, The University of Hong Kong (Co-Advisor: Dr. Bin Chen)
+**Research Assistant**, The University of Hong Kong (Co-Advisor: Dr. Bin Chen)
 
 Recent News 
-======  
+======
+
 January 2024
-------  
+------
+
 • Thrilled to announce that I will be joining **Cornell University** as a Postdoctoral Associate at the [Department of Global Development](https://cals.cornell.edu/global-development){:target="_blank"}, [College of Agriculture and Life Sciences](https://cals.cornell.edu/){:target="_blank"}. I will collaborate with [Dr. Chuan Liao](https://cals.cornell.edu/chuan-liao){:target="_blank"} on pioneering sustainability research using advanced data-model techniques. Looking forward to the new adventure ahead!
 
 Publications
