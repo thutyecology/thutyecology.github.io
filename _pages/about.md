@@ -9,6 +9,7 @@ redirect_from:
 ---
 I am currently a Ph.D. Candidate at the [Department of Earth System Science, Tsinghua University](https://www.dess.tsinghua.edu.cn/){:target="_blank"}, with an anticipated graduation date in April 2024. As of May 2024, I will join as a Postdoctoral Associate at the [Department of Global Development, Cornell University](https://cals.cornell.edu/global-development){:target="_blank"}. I earned my B.S. degree in Geographical Information Science from Sun Yat-sen University in 2019. My research interests focus on combining remote sensing and AI for sustainability development.
 
+
 Research Interests
 ======
 • Remote Sensing of Land Cover/Land Use Change Monitoring  
@@ -16,6 +17,7 @@ Research Interests
 • Urban-Rural Development and Policy Evaluation  
 • Environmental Exposure, Justice, and Health  
 • Sustainable Development Goals (SDGs)
+
 
 Education
 ======
@@ -32,6 +34,7 @@ Recent News
 January 2024  
 ------
 • Thrilled to announce that I will be joining **Cornell University** as a Postdoctoral Associate at the [Department of Global Development](https://cals.cornell.edu/global-development){:target="_blank"}, [College of Agriculture and Life Sciences](https://cals.cornell.edu/){:target="_blank"}. I will collaborate with [Dr. Chuan Liao](https://cals.cornell.edu/chuan-liao){:target="_blank"} on pioneering sustainability research using advanced data-model techniques. Looking forward to the new adventure ahead!
+
 
 Publications
 ======
@@ -66,6 +69,7 @@ Conference proceedings
 ------
 1.	**Ying Tu**, Bin Chen, Le Yu, Qinchuan Xin, Peng Gong, and Bing Xu*. [Urban-Expansion Driven Farmland Loss Follows with the Environmental Kuznets Curve Hypothesis: Evidence from Temporal Analysis in Beijing, China.](https://link.springer.com/chapter/10.1007/978-981-15-6106-1_29){:target="_blank"} In *Geoinformatics in Sustainable Ecosystem and Society*, pp. 394-412. Springer, Singapore, 2019.
 2.	Shengjie Liu, Haowen Luo, **Ying Tu**, Zhi He, and Jun Li*. [Wide contextual residual network with active learning for remote sensing image classification.](https://ieeexplore.ieee.org/abstract/document/8517855){:target="_blank"} In *IGARSS 2018-2018 IEEE International Geoscience and Remote Sensing Symposium*, pp. 7145-7148. IEEE, 2018.
+
 
 Appointments
 ======
