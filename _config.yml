@@ -13,7 +13,7 @@ name                     : "Ying Tu"
 description              : &description "personal description"
 url                      : "https://thutyecology.github.io/"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "academicpages/academicpages.github.io"
+repository               : "thutyecology/thutyecology.github.io"#"academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ying Tu"
-  avatar           : "thutyecology.github.io/images/tuying.png"
+  avatar           : "images/tuying2.png"
   bio              : "Incoming Postdoctoral Associate"
   location         : "Ithaca, NY 14853, USA"
   employer         : "Cornell University"
