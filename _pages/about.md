@@ -24,14 +24,17 @@ Research Interests
 Education
 ======
 August 2019 – April 2024 (Expected)  Tsinghua University
+
 Ph.D. in Ecology (Advisor: Prof. Bing Xu)
 
 August 2015 – June 2019  Sun Yat-sen University
+
 B.S. in Geographic Information Science
 
 Appointments
 ======
 August 2022 – August 2023  The University of Hong Kong
+
 Research Assistant (Co-Advisor: Dr. Bin Chen)
 
 Recent News 
