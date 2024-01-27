@@ -21,8 +21,13 @@ Research Interests
 
 Education
 ======
-* Ph.D. in Ecology, Tsinghua University, 2024
-* B.S. in Geographic Information Science, Sun Yat-sen University, 2019
+* Ph.D. in Ecology, Tsinghua University, 2019-2024
+* B.S. in Geographic Information Science, Sun Yat-sen University, 2015-2019
+
+Work experience
+======
+* Postdoctoral Associate, Cornell Univeristy, 2024-present
+* Research Assistant, The University of Hong Kong, 2022-2023
 
 
 Recent News 
