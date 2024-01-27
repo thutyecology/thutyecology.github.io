@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-#corresponding author, #co-first author  
+/*corresponding author, #co-first author  
 
 **Articles Under Consideration**
 1.	**Ying Tu**, Shengbiao Wu, Bin Chen, Qihao Weng, Peng Gong, Yuqi Bai, Jun Yang, Le Yu, and Bing Xu\*. A 30 m annual cropland dataset of China from 1986 to 2021. *Earth System Science Data Discussion*. [Preprint](https://doi.org/10.5194/essd-2023-190){:target="_blank"}
