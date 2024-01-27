@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications
 ======
 #corresponding author, #co-first author  
 
