@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Recent News"
+permalink: /talks/
+author_profile: true
+---
+
+
 Recent News 
 ======
 **January 2024**  
