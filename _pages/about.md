@@ -12,26 +12,23 @@ I am currently a Ph.D. Candidate at the [Department of Earth System Science, Tsi
 
 Research Interests
 ======
-• Remote Sensing of Land Cover/Land Use Change Monitoring  
-• Geospatial Big Data Mining and Analytics  
-• Urban-Rural Development and Policy Evaluation  
-• Environmental Exposure, Justice, and Health  
-• Sustainable Development Goals (SDGs)
+* Remote Sensing of Land Cover/Land Use Change Monitoring  
+* Geospatial Big Data Mining and Analytics  
+* Urban-Rural Development and Policy Evaluation  
+* Environmental Exposure, Justice, and Health  
+* Sustainable Development Goals (SDGs)
 
 
 Education
 ======
-August 2019 – April 2024 (Expected)  
-**Ph.D. in Ecology**, Tsinghua University (Advisor: Prof. Bing Xu)
-
-August 2015 – June 2019  
-**B.S. in Geographic Information Science**, Sun Yat-sen University  
+* Ph.D. in Ecology, Tsinghua University, 2024
+* B.S. in Geographic Information Science, Sun Yat-sen University, 2019
 
 
 Recent News 
 ======
 **January 2024**  
-  • Thrilled to announce that I will be joining **Cornell University** as a Postdoctoral Associate at the [Department of Global Development](https://cals.cornell.edu/global-development){:target="_blank"}, [College of Agriculture and Life Sciences](https://cals.cornell.edu/){:target="_blank"}. I will collaborate with [Dr. Chuan Liao](https://cals.cornell.edu/chuan-liao){:target="_blank"} on pioneering sustainability research using advanced data-model techniques. Looking forward to the new adventure ahead!
+* Thrilled to announce that I will be joining **Cornell University** as a Postdoctoral Associate at the [Department of Global Development](https://cals.cornell.edu/global-development){:target="_blank"}, [College of Agriculture and Life Sciences](https://cals.cornell.edu/){:target="_blank"}. I will collaborate with [Dr. Chuan Liao](https://cals.cornell.edu/chuan-liao){:target="_blank"} on pioneering sustainability research using advanced data-model techniques. Looking forward to the new adventure ahead!
 
 
 Publications
