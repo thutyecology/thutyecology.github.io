@@ -34,7 +34,7 @@ Understanding distributions of urban land use is of great importance for urban p
 
 ![](https://thutyecology.github.io/images/euluc-seg.png){:width="800px"}
 
-<center>Comparison of remotely sensed images and urban land use mapping results. Three columns from left to right denote the Sentinel-2 optical imagery (false color composition), maps of EULUC, and maps of EULUC-seg implemented in this study, respectively.</center>
+<center>Comparison of remotely sensed images and urban land use maps. Three columns from left to right denote the Sentinel-2 imagery (false color composition), maps of EULUC, and maps of EULUC-seg implemented in this study, respectively.</center>
 
 Reference: Ying Tu, Bin Chen, Tao Zhang, and Bing Xu. [Regional Mapping of Essential Urban Land Use Categories in China: A Segmentation-Based Approach.](https://www.mdpi.com/2072-4292/12/7/1058){:target="_blank"} *Remote Sensing* 12, no. 7 (2020): 1058.
 
