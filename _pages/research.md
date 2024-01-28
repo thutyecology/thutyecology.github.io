@@ -20,7 +20,7 @@ Land use serves as a reflection of human activities on Earth, with urban land us
 
 In this research, we report a new urban land use map for China that uses 10-m satellite images, OpenStreetMap, nighttime lights, POI, and Tencent social big data all in 2018 as input features. Training and validation samples are separately collected through a crowdsourcing approach involving 21 research groups in 27 selected representative cities. We apply the training parcels with the extracted features acquired in 2018 to produce a parcel-level mapping of EULUC-China with the random forest classifier. The overall accuracy of the EULUC-China map evaluated against the independent validation sample is 61.2% for Level I and 57.5% for Level II. The results presented here mark the beginning of a new way of collaborative urban land use mapping over large areas, that is a central data processing with crowdsourced collection of training and validation samples.
 
-![Map of Essential Urban Land Use Categories in China (EULUC-China) in 2018]('thutyecology.github.io/images/euluc-china.png')
+![Map of Essential Urban Land Use Categories in China (EULUC-China) in 2018]('/thutyecology.github.io/images/euluc-china.png')
 
 Reference: Peng Gong, et al. [Mapping essential urban land use categories in China (EULUC-China): preliminary results for 2018.](https://doi.org/10.1016/j.scib.2019.12.007){:target="_blank"} *Science Bulletin* 65, no. 3 (2020): 182-187.
 
@@ -30,7 +30,7 @@ Reference: Peng Gong, et al. [Mapping essential urban land use categories in Chi
 
 Understanding distributions of urban land use is of great importance for urban planning, decision support, and resource allocation. Based on the EULUC framework, we further proposed a segmentation-based framework named EULUC-seg to improve the mapping results of EULUC at the city scale. An object-based segmentation approach was first applied to generate the basic mapping units within urban parcels. Multiple features derived from high-resolution remotely sensed and social sensing data were updated and then recalculated within each unit. Random forest was adopted as the machine learning algorithm for classifying urban land use into five Level I classes and twelve Level II classes. Finally, an accuracy assessment was carried out based on a collection of manually interpreted samples. Results showed that our derived map achieved an overall accuracy of 87.58% for Level I, and 73.53% for Level II. The accurate and refined map of EULUC-seg is expected to better support various applications in the future.
 
-![Comparison of remotely sensed images and urban land use mapping results. Three columns from left to right denote the Sentinel-2 optical imagery (false color composition), maps of EULUC, and maps of EULUC-seg implemented in this study, respectively.]('thutyecology.github.io/images/euluc-seg.png')
+![Comparison of remotely sensed images and urban land use mapping results. Three columns from left to right denote the Sentinel-2 optical imagery (false color composition), maps of EULUC, and maps of EULUC-seg implemented in this study, respectively.]('/thutyecology.github.io/images/euluc-seg.png')
 
 Reference: Ying Tu, Bin Chen, Tao Zhang, and Bing Xu. [Regional Mapping of Essential Urban Land Use Categories in China: A Segmentation-Based Approach.](https://www.mdpi.com/2072-4292/12/7/1058){:target="_blank"} *Remote Sensing* 12, no. 7 (2020): 1058.
 
