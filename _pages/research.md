@@ -20,7 +20,7 @@ Land use serves as a reflection of human activities on Earth, with urban land us
 
 In this research, we report a new urban land use map for China that uses 10-m satellite images, OpenStreetMap, nighttime lights, POI, and Tencent social big data all in 2018 as input features. Training and validation samples are separately collected through a crowdsourcing approach involving 21 research groups in 27 selected representative cities. We apply the training parcels with the extracted features acquired in 2018 to produce a parcel-level mapping of EULUC-China with the random forest classifier. The overall accuracy of the EULUC-China map evaluated against the independent validation sample is 61.2% for Level I and 57.5% for Level II. The results presented here mark the beginning of a new way of collaborative urban land use mapping over large areas, that is a central data processing with crowdsourced collection of training and validation samples.
 
-![](https://thutyecology.github.io/images/euluc-china-2.png)
+![](https://thutyecology.github.io/images/euluc-china-1.png){:height="150px" width="600px"}
 
 <center>Map of Essential Urban Land Use Categories in China (EULUC-China) in 2018</center>
 
@@ -32,7 +32,7 @@ Reference: Peng Gong, et al. [Mapping essential urban land use categories in Chi
 
 Understanding distributions of urban land use is of great importance for urban planning, decision support, and resource allocation. Based on the EULUC framework, we further proposed a segmentation-based framework named EULUC-seg to improve the mapping results of EULUC at the city scale. An object-based segmentation approach was first applied to generate the basic mapping units within urban parcels. Multiple features derived from high-resolution remotely sensed and social sensing data were updated and then recalculated within each unit. Random forest was adopted as the machine learning algorithm for classifying urban land use into five Level I classes and twelve Level II classes. Finally, an accuracy assessment was carried out based on a collection of manually interpreted samples. Results showed that our derived map achieved an overall accuracy of 87.58% for Level I, and 73.53% for Level II. The accurate and refined map of EULUC-seg is expected to better support various applications in the future.
 
-![](https://thutyecology.github.io/images/euluc-seg.png)
+![](https://thutyecology.github.io/images/euluc-seg.png){:height="150px" width="600px"}
 
 <center>Comparison of remotely sensed images and urban land use mapping results. Three columns from left to right denote the Sentinel-2 optical imagery (false color composition), maps of EULUC, and maps of EULUC-seg implemented in this study, respectively.</center>
 
@@ -44,7 +44,7 @@ Reference: Ying Tu, Bin Chen, Tao Zhang, and Bing Xu. [Regional Mapping of Essen
 
 Detailed information on urban land uses has been an essential requirement for urban land management and policymaking. Recent advances in remote sensing and machine learning technologies have contributed to the mapping and monitoring of multi-scale urban land uses, yet there lacks a holistic mapping framework that is compatible with different end users’ demands. Moreover, land use mix has evolved to be a key component in modern urban settings, but few have explicitly measured the spatial complexity of land use or quantitively uncovered its driving forces. Addressing these challenges, here we developed a novel **two-stage bottom-up scheme** for mapping essential urban land use categories. In the first stage, we conducted object-based land use classification using crowdsourcing features derived from multi-source open big data and an automated ensemble learning approach. In the second stage, we identified parcel-based land use attributes, including the dominant type and mixture mode, by spatially correlating land parcels with the object-based results. Furthermore, we investigated the potential influencing factors of land use mix using principal components analysis and multiple linear regression.
 
-![](https://thutyecology.github.io/images/euluc-composited-1.png){:height="100px" width="400px"}
+![](https://thutyecology.github.io/images/euluc-composited-1.png){:height="150px" width="600px"}
 
 <center>Flowchart of the proposed two-stage urban land use mapping scheme.</center>
 
