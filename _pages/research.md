@@ -58,7 +58,14 @@ Land use mix of Level I categories in Ningbo city. (a) Maps of complexity index 
 
 Reference: Ying Tu, Bin Chen, Wei Lang, Tingting Chen, Miao Li, Tao Zhang, and Bing Xu. [Uncovering the Nature of Urban Land Use Composition Using Multi-source Open Big Data with Ensemble Learning.](https://www.mdpi.com/2072-4292/13/21/4241){:target="_blank"} *Remote Sensing* 13, no. 21 (2021): 4241.
 
-
+<iframe
+    src="https://thutyecology.users.earthengine.app/view/euluc-ningbo-viewer"
+    width = "1000"
+    height = "500"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
+    
 **4. EULUC-USA**
 ------
 
