@@ -20,7 +20,7 @@ Land use serves as a reflection of human activities on Earth, with urban land us
 
 In this research, we report a new urban land use map for China that uses 10-m satellite images, OpenStreetMap, nighttime lights, POI, and Tencent social big data all in 2018 as input features. Training and validation samples are separately collected through a crowdsourcing approach involving 21 research groups in 27 selected representative cities. We apply the training parcels with the extracted features acquired in 2018 to produce a parcel-level mapping of EULUC-China with the random forest classifier. The overall accuracy of the EULUC-China map evaluated against the independent validation sample is 61.2% for Level I and 57.5% for Level II. The results presented here mark the beginning of a new way of collaborative urban land use mapping over large areas, that is a central data processing with crowdsourced collection of training and validation samples.
 
-![Map of Essential Urban Land Use Categories in China (EULUC-China) in 2018]('/thutyecology.github.io/images/euluc-china.png')
+![Map of Essential Urban Land Use Categories in China (EULUC-China) in 2018]('https://thutyecology.github.io/images/euluc-china.png')
 
 Reference: Peng Gong, et al. [Mapping essential urban land use categories in China (EULUC-China): preliminary results for 2018.](https://doi.org/10.1016/j.scib.2019.12.007){:target="_blank"} *Science Bulletin* 65, no. 3 (2020): 182-187.
 
