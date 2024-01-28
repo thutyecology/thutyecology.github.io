@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Recent News"
-permalink: /news/
+permalink: /rnews/
 author_profile: true
 ---
 
