@@ -1,6 +1,6 @@
 ---
 layout: archive
-#title: "Data"
+title: "Data"
 permalink: /rdata/
 author_profile: true
 ---
