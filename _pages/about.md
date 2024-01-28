@@ -31,11 +31,11 @@ Work Experience
 
 Location
 ======
-<iframe
+<!--<iframe
     src="https://www.google.com/maps/@42.4536761,-76.4742294,14.0z"
     width = "500"
     height = "200"
     frameborder="0"
     allowfullscreen>
-</iframe>
+</iframe>-->
 
