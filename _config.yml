@@ -175,6 +175,9 @@ kramdown:
 
 # Collections
 collections:
+  pages:
+    output: true
+    permalink: /:collection/:path/
   rnews:
     output: true
     permalink: /:collection/:path/
