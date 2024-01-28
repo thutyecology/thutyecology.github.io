@@ -19,7 +19,7 @@ Research Interests
 * Sustainable Development Goals (SDGs)
 
 
-Education
+Education Background
 ======
 * Ph.D. in Ecology, Tsinghua University, 2019-2024
 * B.S. in Geographic Information Science, Sun Yat-sen University, 2015-2019
