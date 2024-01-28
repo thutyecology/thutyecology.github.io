@@ -50,7 +50,7 @@ Flowchart of the proposed two-stage urban land use mapping scheme.
 
 Experimental results in Ningbo, a coastal city in China, showed that the proposed framework could accurately depict the distribution and composition of urban land uses. At the object scale, the highest classification accuracy was as high as 86% and 78% for the major (Level I) and minor (Level II) categories, respectively. At the parcel scale, the generated land use maps were spatially consistent with the object-based maps. We found larger parcels were more likely to be mixed in land use, and industrial lands were characterized as the most complicated category. We also identified multiple factors that had a collective impact on land use mix, including geography, socioeconomy, accessibility, and landscape metrics. Altogether, our proposed framework offered an alternative to investigating urban land use composition, which could be applied in a broad range of implications in future urban studies.
  
-![](https://thutyecology.github.io/images/euluc-composited-2.jpeg)
+![](https://thutyecology.github.io/images/euluc-composited-2.png){:width="1000px"}
 
 <center>Land use mix of Level I categories in Ningbo city. (a) Maps of complexity index in the city center. (b) Maps of dominant rate in the city center. (c) The relationship between complexity index and area of parcels. (d) The relationship between dominant rate and area of parcels. r in (c,d) represents the Pearson correlation coefficient.</center>
 
