@@ -23,7 +23,7 @@ For more information on CACD, please refer to our accompanied paper at https://d
 Reference: Ying Tu, Shengbiao Wu, Bin Chen, Qihao Weng, Peng Gong, Yuqi Bai, Jun Yang, Le Yu, and Bing Xu\*. [A 30 m annual cropland dataset of China from 1986 to 2021](https://doi.org/10.5194/essd-2023-190){:target="_blank"}. *Earth System Science Data*. (Under review).
 
 <iframe
-    src="https://thutyecology.users.earthengine.app/view/cacd-viewer"
+    src="https://thutyecology.users.earthengine.app/view/cacd-maps"
     width = "1000"
     height = "500"
     frameborder="0"
