@@ -24,6 +24,8 @@ Reference: Ying Tu, Shengbiao Wu, Bin Chen, Qihao Weng, Peng Gong, Yuqi Bai, Jun
 
 <iframe
     src="https://thutyecology.users.earthengine.app/view/cacd-viewer"
+    width = "1240"
+    height = "500"
     frameborder="0"></iframe>
     
 
