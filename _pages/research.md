@@ -60,7 +60,7 @@ Reference: Ying Tu, Bin Chen, Wei Lang, Tingting Chen, Miao Li, Tao Zhang, and B
 
 <iframe
     src="https://thutyecology.users.earthengine.app/view/euluc-ningbo-viewer"
-    width = "1000"
+    width = "960"
     height = "500"
     frameborder="0"
     allowfullscreen>
