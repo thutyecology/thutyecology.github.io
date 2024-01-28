@@ -46,7 +46,7 @@ Detailed information on urban land uses has been an essential requirement for ur
 
 ![](https://thutyecology.github.io/images/euluc-composited-1.png){:height="150px" width="600px"}
 
-<center>Flowchart of the proposed two-stage urban land use mapping scheme.</center>
+Flowchart of the proposed two-stage urban land use mapping scheme.
 
 Experimental results in Ningbo, a coastal city in China, showed that the proposed framework could accurately depict the distribution and composition of urban land uses. At the object scale, the highest classification accuracy was as high as 86% and 78% for the major (Level I) and minor (Level II) categories, respectively. At the parcel scale, the generated land use maps were spatially consistent with the object-based maps. We found larger parcels were more likely to be mixed in land use, and industrial lands were characterized as the most complicated category. We also identified multiple factors that had a collective impact on land use mix, including geography, socioeconomy, accessibility, and landscape metrics. Altogether, our proposed framework offered an alternative to investigating urban land use composition, which could be applied in a broad range of implications in future urban studies.
  
