@@ -20,7 +20,7 @@ Land use serves as a reflection of human activities on Earth, with urban land us
 
 In this research, we report a new urban land use map for China that uses 10-m satellite images, OpenStreetMap, nighttime lights, POI, and Tencent social big data all in 2018 as input features. Training and validation samples are separately collected through a crowdsourcing approach involving 21 research groups in 27 selected representative cities. We apply the training parcels with the extracted features acquired in 2018 to produce a parcel-level mapping of EULUC-China with the random forest classifier. The overall accuracy of the EULUC-China map evaluated against the independent validation sample is 61.2% for Level I and 57.5% for Level II. The results presented here mark the beginning of a new way of collaborative urban land use mapping over large areas, that is a central data processing with crowdsourced collection of training and validation samples.
 
-![](https://thutyecology.github.io/images/euluc-china-1.png){:height="150px" width="600px"}
+![](https://thutyecology.github.io/images/euluc-china.png){:height="150px" width="600px"}
 
 <center>Map of Essential Urban Land Use Categories in China (EULUC-China) in 2018</center>
 
@@ -32,7 +32,7 @@ Reference: Peng Gong, et al. [Mapping essential urban land use categories in Chi
 
 Understanding distributions of urban land use is of great importance for urban planning, decision support, and resource allocation. Based on the EULUC framework, we further proposed a segmentation-based framework named EULUC-seg to improve the mapping results of EULUC at the city scale. An object-based segmentation approach was first applied to generate the basic mapping units within urban parcels. Multiple features derived from high-resolution remotely sensed and social sensing data were updated and then recalculated within each unit. Random forest was adopted as the machine learning algorithm for classifying urban land use into five Level I classes and twelve Level II classes. Finally, an accuracy assessment was carried out based on a collection of manually interpreted samples. Results showed that our derived map achieved an overall accuracy of 87.58% for Level I, and 73.53% for Level II. The accurate and refined map of EULUC-seg is expected to better support various applications in the future.
 
-![](https://thutyecology.github.io/images/euluc-seg.png){:height="150px" width="600px"}
+![](https://thutyecology.github.io/images/euluc-seg.png){:width="800px"}
 
 <center>Comparison of remotely sensed images and urban land use mapping results. Three columns from left to right denote the Sentinel-2 optical imagery (false color composition), maps of EULUC, and maps of EULUC-seg implemented in this study, respectively.</center>
 
@@ -50,7 +50,7 @@ Detailed information on urban land uses has been an essential requirement for ur
 
 Experimental results in Ningbo, a coastal city in China, showed that the proposed framework could accurately depict the distribution and composition of urban land uses. At the object scale, the highest classification accuracy was as high as 86% and 78% for the major (Level I) and minor (Level II) categories, respectively. At the parcel scale, the generated land use maps were spatially consistent with the object-based maps. We found larger parcels were more likely to be mixed in land use, and industrial lands were characterized as the most complicated category. We also identified multiple factors that had a collective impact on land use mix, including geography, socioeconomy, accessibility, and landscape metrics. Altogether, our proposed framework offered an alternative to investigating urban land use composition, which could be applied in a broad range of implications in future urban studies.
  
-![](https://thutyecology.github.io/images/euluc-composited-2.jpeg)
+![](https://thutyecology.github.io/images/euluc-composited-2.jpeg){:width="1000px"}
 
 <center>Land use mix of Level I categories in Ningbo city. (a) Maps of complexity index in the city center. (b) Maps of dominant rate in the city center. (c) The relationship between complexity index and area of parcels. (d) The relationship between dominant rate and area of parcels. r in (c,d) represents the Pearson correlation coefficient.</center>
 
