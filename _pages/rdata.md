@@ -24,8 +24,7 @@ Reference: Ying Tu, Shengbiao Wu, Bin Chen, Qihao Weng, Peng Gong, Yuqi Bai, Jun
 
 <iframe
     src="https://thutyecology.users.earthengine.app/view/cacd-viewer"
-    frameborder="0" 
-    scrolling="no"></iframe>
+    frameborder="0"></iframe>
     
 
 The 10 m land cover dataset of Guangdong, China in 2019
