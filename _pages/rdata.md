@@ -22,6 +22,13 @@ For more information on CACD, please refer to our accompanied paper at https://d
 
 Reference: Ying Tu, Shengbiao Wu, Bin Chen, Qihao Weng, Peng Gong, Yuqi Bai, Jun Yang, Le Yu, and Bing Xu\*. [A 30 m annual cropland dataset of China from 1986 to 2021](https://doi.org/10.5194/essd-2023-190){:target="_blank"}. *Earth System Science Data*. (Under review).
 
+<iframe
+    src="[http://118.25.75.221/map2.html](https://thutyecology.users.earthengine.app/view/cacd-viewer)" 
+    #width="600" 
+    #height="300" 
+    frameborder="0" 
+    scrolling="no"></iframe>
+    
 
 The 10 m land cover dataset of Guangdong, China in 2019
 -----
