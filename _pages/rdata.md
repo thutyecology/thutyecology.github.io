@@ -34,7 +34,9 @@ Land cover information depicting the complex interactions between human activiti
 * Pixel size: 10 m
 * Projection: EPSG: 4326 (WGS84)
 * Classification system:
+
 | Class            | Value  |
+|     --------     | ------ |
 | No-data          | 0      |
 | Cropland         | 1      |
 | Forest           | 2      |
