@@ -18,9 +18,7 @@ The dataset was produced by using numerous Landsat satellite images on the cloud
 * Projection: EPSG: 4326 (WGS84)
 * Values: 1 denotes cropland and 0 denotes non-cropland
 
-For more information on CACD, please refer to our accompanied paper at https://doi.org/10.5194/essd-2023-190
-
-Reference: Ying Tu, Shengbiao Wu, Bin Chen, Qihao Weng, Peng Gong, Yuqi Bai, Jun Yang, Le Yu, and Bing Xu\*. [A 30 m annual cropland dataset of China from 1986 to 2021](https://doi.org/10.5194/essd-2023-190){:target="_blank"}. *Earth System Science Data*. (Under review).
+Interactive maps:
 
 <iframe
     src="https://thutyecology.users.earthengine.app/view/cacd-maps"
@@ -29,6 +27,10 @@ Reference: Ying Tu, Shengbiao Wu, Bin Chen, Qihao Weng, Peng Gong, Yuqi Bai, Jun
     frameborder="0"
     allowfullscreen>
 </iframe>
+
+For more information on CACD, please refer to our accompanied paper at https://doi.org/10.5194/essd-2023-190
+
+Reference: Ying Tu, Shengbiao Wu, Bin Chen, Qihao Weng, Peng Gong, Yuqi Bai, Jun Yang, Le Yu, and Bing Xu\*. [A 30 m annual cropland dataset of China from 1986 to 2021](https://doi.org/10.5194/essd-2023-190){:target="_blank"}. *Earth System Science Data*. (Under review).
     
 
 The 10 m land cover dataset of Guangdong, China in 2019
