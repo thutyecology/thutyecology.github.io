@@ -32,11 +32,19 @@ Reference: Peng Gong, et al. [Mapping essential urban land use categories in Chi
 
 Understanding distributions of urban land use is of great importance for urban planning, decision support, and resource allocation. Based on the EULUC framework, we further proposed a segmentation-based framework named EULUC-seg to improve the mapping results of EULUC at the city scale. An object-based segmentation approach was first applied to generate the basic mapping units within urban parcels. Multiple features derived from high-resolution remotely sensed and social sensing data were updated and then recalculated within each unit. Random forest was adopted as the machine learning algorithm for classifying urban land use into five Level I classes and twelve Level II classes. Finally, an accuracy assessment was carried out based on a collection of manually interpreted samples. Results showed that our derived map achieved an overall accuracy of 87.58% for Level I, and 73.53% for Level II. The accurate and refined map of EULUC-seg is expected to better support various applications in the future.
 
-![](https://thutyecology.github.io/images/euluc-seg.png)
+<!--![](https://thutyecology.github.io/images/euluc-seg.png)
 
 Comparison of remotely sensed images and urban land use mapping results. (a–c) The central urban area of Ningbo. (d–f) A suburb located 10 km northwest of the central city. (g–i) The Yuyao county located 40 km west of the central city. Three columns from left to right denote the Sentinel-2 optical imagery (false color composition), maps of EULUC [1], and maps of EULUC-seg implemented in this study, respectively.
 
 Workflow of the proposed mapping scheme.
+-->
+<iframe
+    src="https://thutyecology.users.earthengine.app/view/euluc-ningbo-viewer"
+    width = "960"
+    height = "500"
+    frameborder="0"
+    allowfullscreen>
+</iframe>
 
 Reference: Ying Tu, Bin Chen, Tao Zhang, and Bing Xu. [Regional Mapping of Essential Urban Land Use Categories in China: A Segmentation-Based Approach.](https://www.mdpi.com/2072-4292/12/7/1058){:target="_blank"} *Remote Sensing* 12, no. 7 (2020): 1058.
 
@@ -58,13 +66,6 @@ Land use mix of Level I categories in Ningbo city. (a) Maps of complexity index 
 
 Reference: Ying Tu, Bin Chen, Wei Lang, Tingting Chen, Miao Li, Tao Zhang, and Bing Xu. [Uncovering the Nature of Urban Land Use Composition Using Multi-source Open Big Data with Ensemble Learning.](https://www.mdpi.com/2072-4292/13/21/4241){:target="_blank"} *Remote Sensing* 13, no. 21 (2021): 4241.
 
-<iframe
-    src="https://thutyecology.users.earthengine.app/view/euluc-ningbo-viewer"
-    width = "960"
-    height = "500"
-    frameborder="0"
-    allowfullscreen>
-</iframe>
     
 **4. EULUC-USA**
 ------
