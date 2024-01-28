@@ -1,9 +1,11 @@
 ---
 layout: archive
-#title: "Data"
+title: "Data"
 permalink: /rdata/
 author_profile: true
 ---
+
+Feel free to use our data!
 
 The 30 m annual cropland dataset of China from 1986 to 2021 (CACD)
 -----
