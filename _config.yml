@@ -175,9 +175,12 @@ kramdown:
 
 # Collections
 collections:
-  talks:
+  rnews:
     output: true
     permalink: /:collection/:path/
+  #talks:
+    #output: true
+    #permalink: /:collection/:path/
   teaching:
     output: true
     permalink: /:collection/:path/
@@ -210,14 +213,23 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _talks
+  # _rnews
   - scope:
       path: ""
-      type: talks
+      type: rnews
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+      comments: true
+  # _talks
+  #- scope:
+      #path: ""
+      #type: talks
+    #values:
+      #layout: talk
+      #author_profile: true
+      #share: true
   # _publications
   - scope:
       path: ""
