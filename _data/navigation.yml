@@ -10,7 +10,7 @@ main:
     url: /research/    
     
   - title: "Data"
-    url: /data/
+    url: /rdata/
         
   #- title: "Blog Posts"
     #url: /year-archive/
