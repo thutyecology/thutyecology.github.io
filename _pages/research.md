@@ -32,9 +32,9 @@ Reference: Peng Gong, et al. [Mapping essential urban land use categories in Chi
 
 Understanding distributions of urban land use is of great importance for urban planning, decision support, and resource allocation. Based on the EULUC framework, we further proposed a segmentation-based framework named EULUC-seg to improve the mapping results of EULUC at the city scale. An object-based segmentation approach was first applied to generate the basic mapping units within urban parcels. Multiple features derived from high-resolution remotely sensed and social sensing data were updated and then recalculated within each unit. Random forest was adopted as the machine learning algorithm for classifying urban land use into five Level I classes and twelve Level II classes. Finally, an accuracy assessment was carried out based on a collection of manually interpreted samples. Results showed that our derived map achieved an overall accuracy of 87.58% for Level I, and 73.53% for Level II. The accurate and refined map of EULUC-seg is expected to better support various applications in the future.
 
-![](https://thutyecology.github.io/images/euluc-seg-2.png)
+![](https://thutyecology.github.io/images/euluc-seg-2.png){: width="800px"}
 
-<center>Workflow of the proposed mapping scheme.</center>
+    Workflow of the proposed mapping scheme.
 
 Reference: Ying Tu, Bin Chen, Tao Zhang, and Bing Xu. [Regional Mapping of Essential Urban Land Use Categories in China: A Segmentation-Based Approach.](https://www.mdpi.com/2072-4292/12/7/1058){:target="_blank"} *Remote Sensing* 12, no. 7 (2020): 1058.
 
@@ -50,9 +50,9 @@ Flowchart of the proposed two-stage urban land use mapping scheme.
 
 Experimental results in Ningbo, a coastal city in China, showed that the proposed framework could accurately depict the distribution and composition of urban land uses. At the object scale, the highest classification accuracy was as high as 86% and 78% for the major (Level I) and minor (Level II) categories, respectively. At the parcel scale, the generated land use maps were spatially consistent with the object-based maps. We found larger parcels were more likely to be mixed in land use, and industrial lands were characterized as the most complicated category. We also identified multiple factors that had a collective impact on land use mix, including geography, socioeconomy, accessibility, and landscape metrics. Altogether, our proposed framework offered an alternative to investigating urban land use composition, which could be applied in a broad range of implications in future urban studies.
  
-![](https://thutyecology.github.io/images/euluc-composited-2.png){:width="1000px"}
+![](https://thutyecology.github.io/images/euluc-composited-2.png){:width="600px"}
 
-<center>Land use mix of Level I categories in Ningbo city. (a) Maps of complexity index in the city center. (b) Maps of dominant rate in the city center. (c) The relationship between complexity index and area of parcels. (d) The relationship between dominant rate and area of parcels. r in (c,d) represents the Pearson correlation coefficient.</center>
+Land use mix of Level I categories in Ningbo city. (a) Maps of complexity index in the city center. (b) Maps of dominant rate in the city center. (c) The relationship between complexity index and area of parcels. (d) The relationship between dominant rate and area of parcels. r in (c,d) represents the Pearson correlation coefficient.
 
 Reference: Ying Tu, Bin Chen, Wei Lang, Tingting Chen, Miao Li, Tao Zhang, and Bing Xu. [Uncovering the Nature of Urban Land Use Composition Using Multi-source Open Big Data with Ensemble Learning.](https://www.mdpi.com/2072-4292/13/21/4241){:target="_blank"} *Remote Sensing* 13, no. 21 (2021): 4241.
 
