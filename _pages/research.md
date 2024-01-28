@@ -1,11 +1,10 @@
 ---
 layout: archive
-#title: "Research"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
-To discover, to find...
 
 Mapping Essential Urban Land Use Categories (EULUC)
 ======
