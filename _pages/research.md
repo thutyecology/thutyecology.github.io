@@ -12,7 +12,7 @@ Mapping Essential Urban Land Use Categories (EULUC)
 
 **Introduction**
 
-Land use serves as a reflection of human activities on Earth, with urban land use standing out as the most prominent manifestation of human alteration. Due to population growth and urbanization, urban land use is changing dynamically in recent years. However, our understanding of the distribution, patterns, and composition of various land use types in urban areas is hampered by limitations in data sources, methodologies, and classification schemes used in existing maps. Addressing these issues, here, we carried out a branch of studies under the **Essential Urban Land Use Categories (EULUC)** framework that aims to provide accurate, detailed, and high-resolution land use maps for Chinese and US cities.
+Land use serves as a reflection of human activities on Earth, with urban land use standing out as the most prominent manifestation of human alteration. Due to population growth and urbanization, urban land use is changing dynamically in recent years. However, our understanding of the distribution, patterns, and composition of various land use types in urban areas is hampered by limitations in data sources, methodologies, and classification schemes used in existing maps. Addressing these issues, here, we carried out a series of studies under the **Essential Urban Land Use Categories (EULUC)** framework that aims to provide accurate, detailed, and high-resolution land use maps for Chinese and US cities.
 
 
 **1. EULUC-China**
