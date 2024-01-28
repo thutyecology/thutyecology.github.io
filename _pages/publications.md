@@ -8,9 +8,9 @@ author_profile: true
 *corresponding author, #co-first author  
 
 **Articles Under Consideration**
-1.	**Ying Tu**, Shengbiao Wu, Bin Chen, Qihao Weng, Peng Gong, Yuqi Bai, Jun Yang, Le Yu, and Bing Xu\*. A 30 m annual cropland dataset of China from 1986 to 2021. *Earth System Science Data Discussion*. [Preprint](https://doi.org/10.5194/essd-2023-190){:target="_blank"}
-2.	**Ying Tu**, Bin Chen\*, Shengbiao Wu, Jiafu An, Chen Lin, Peng Gong, and Bing Xu\*. Contrasting difference in human access to socio-economic-environmental infrastructure between Global North and Global South. (To be submitted).
-4.	Bin Chen#, **Ying Tu**\#, Jiafu An#, Shengbiao Wu, Chen Lin\*, and Peng Gong\*. Assessing Impacts of the Russia-Ukraine Conflict on Agricultural Production using Publicly Available Satellite Imagery. *Communications Earth & Environment*. (Under review).
+1.	**Ying Tu**, Bin Chen\*, Shengbiao Wu, Jiafu An, Chen Lin, Peng Gong, and Bing Xu\*. Contrasting difference in human access to socio-economic-environmental infrastructure between Global North and Global South. (To be submitted).
+2.	**Ying Tu**, Shengbiao Wu, Bin Chen, Qihao Weng, Peng Gong, Yuqi Bai, Jun Yang, Le Yu, and Bing Xu\*. [A 30 m annual cropland dataset of China from 1986 to 2021](https://doi.org/10.5194/essd-2023-190){:target="_blank"}. *Earth System Science Data*. (Under review).
+3.	Bin Chen#, **Ying Tu**\#, Jiafu An#, Shengbiao Wu, Chen Lin\*, and Peng Gong\*. Assessing Impacts of the Russia-Ukraine Conflict on Agricultural Production using Publicly Available Satellite Imagery. *Communications Earth & Environment*. (Under review).
 
 **Articles in Peer-reviewed Journals**
 1.	**Ying Tu**, Bin Chen\*, Le Yu, Yimeng Song, Shengbiao Wu, Miao Li, Hong Wei, Tingting Chen, Wei Lang, Peng Gong, and Bing Xu\*. [Raveling the nexus between urban expansion and cropland loss in China.](https://link.springer.com/article/10.1007/s10980-023-01653-7){:target="_blank"} *Landscape Ecology* (2023): 1-16.
