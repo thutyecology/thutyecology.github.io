@@ -55,7 +55,7 @@ Land cover information depicting the complex interactions between human activiti
 | Impervious area  | 7      |
 | Bareland         | 8      |
 
-![](https://thutyecology.github.io/images/lc-gd-2019.tif)
+![](https://thutyecology.github.io/images/lc-gd-2019.jpg)
 
 <center>10-m Land cover map for Guangdong Province in 2019.</center>
 
