@@ -55,5 +55,9 @@ Land cover information depicting the complex interactions between human activiti
 | Impervious area  | 7      |
 | Bareland         | 8      |
 
+![](https://thutyecology.github.io/images/lc-gd-2019.tif)
+
+<center>10-m Land cover map for Guangdong Province in 2019.</center>
+
 Reference: Ying Tu, Wei Lang, Le Yu, Ying Li, Junhao Jiang, Yawen Qin, Jiemin Wu, Tingting Chen, and Bing Xu\*. [Improved Mapping Results of 10 m Resolution Land Cover Classification in Guangdong, China Using Multisource Remote Sensing Data With Google Earth Engine.](https://ieeexplore.ieee.org/document/9187534){:target="_blank"} *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* 13 (2020): 5384-5397.
 
