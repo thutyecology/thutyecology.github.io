@@ -7,7 +7,7 @@ author_profile: true
 
 --------------------------------------------------
 **March 2024**  
-* One paper entitled “A 30 m annual cropland dataset of China from 1986 to 2021” has been accepted for publication in **Earth System Science Data**.
+* One paper entitled “A 30 m annual cropland dataset of China from 1986 to 2021” has been accepted for publication in *Earth System Science Data*.
 * On March 12, 2024, I successfully defended my PhD thesis titled "**Research on Remote Sensing Monitoring of Cropland Dynamic Changes and Its Relationship with Urban Expansion Development in China**". I am deeply grateful to my supervisor, Prof. Bing Xu, and the esteemed members of my advisory board: Prof. Bingfang Wu, Prof. Xuecao Li, Prof. Jun Yang, Prof. Yuqi Bai, and Prof. Le Yu. Thank you all for your support!
 
 **January 2024**  
