@@ -6,8 +6,9 @@ author_profile: true
 ---
 
 --------------------------------------------------
-**April 2024**  
+**April 2024**
 * Our manuscript on "Assessing Impacts of the Russia-Ukraine Conflict on Agricultural Production using Publicly Available Satellite Imagery" has been accepted for publication in *Communications Earth & Environment*.
+* One co-authored manuscript "Built environments, communities, and housing price: A data-model integration approach" has been accepted for publication in *Applied Geography*.
 * 🎓 Beyond grateful to receive my PhD today! This journey has been a rollercoaster of challenges and triumphs, but every hurdle has led to this moment. Huge thanks to my advisors, family, and friends for their unwavering support. Excited for what lies ahead!
 
 **March 2024**
