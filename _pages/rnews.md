@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 --------------------------------------------------
-**April 2024**
+**May 2024**
 * One co-authored manuscript "Spatial Patterns of Urban Expansion and Cropland Loss during 2017-2022 in Guangdong, China" has been published in *Heliyon*.
 
 **April 2024**
