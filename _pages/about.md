@@ -7,16 +7,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an incoming Postdoctoral Associate at the [Department of Global Development, Cornell University](https://cals.cornell.edu/global-development){:target="_blank"}. I received my Ph.D. degree in Ecology from the [Department of Earth System Science, Tsinghua University](https://www.dess.tsinghua.edu.cn/){:target="_blank"} in April 2024 and my B.S. degree in Geographical Information Science from Sun Yat-sen University in 2019. My research interests focus on combining remote sensing and AI for sustainable development.
+I am a Postdoctoral Associate at the [Department of Global Development, Cornell University](https://cals.cornell.edu/global-development){:target="_blank"}. I received my Ph.D. degree in Ecology from the [Department of Earth System Science, Tsinghua University](https://www.dess.tsinghua.edu.cn/){:target="_blank"} in April 2024 and my B.S. degree in Geographical Information Science from Sun Yat-sen University in 2019. My research interests focus on combining remote sensing and AI for sustainable development.
 
 
 Research Interests
 ======
-* Remote Sensing of Land Cover/Land Use Change Monitoring  
-* Geospatial Big Data Mining and Analytics  
-* Urban-Rural Development and Policy Evaluation  
-* Environmental Exposure, Justice, and Health  
-* Sustainable Development Goals (SDGs)
+* Remote Sensing of Land Cover/Land Use Change Monitoring
+* Environment, Development & Justice
+* Agricultural Sustainability
 
 
 Education Background
