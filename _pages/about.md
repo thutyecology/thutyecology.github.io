@@ -13,7 +13,7 @@ I am a Postdoctoral Associate at the [Department of Global Development, Cornell 
 Research Interests
 ======
 * Remote Sensing of Land Cover/Land Use Change Monitoring
-* Environment, Development & Justice
+* Environment, Development, and Justice
 * Agricultural Sustainability
 
 
