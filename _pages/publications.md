@@ -15,7 +15,7 @@ author_profile: true
 
 **Articles in Peer-reviewed Journals**
 
-[20] Bin Chen#, **Ying Tu**\#, Jiafu An#, Shengbiao Wu, Chen Lin\*, and Peng Gong\*. Assessing Impacts of the Russia-Ukraine Conflict on Agricultural Production using Publicly Available Satellite Imagery. *Communications Earth & Environment* (2024). (Accepted).
+[20] Bin Chen#, **Ying Tu**\#, Jiafu An#, Shengbiao Wu, Chen Lin\*, and Peng Gong\*. Quantification of losses in agriculture production in eastern Ukraine due to the Russia-Ukraine war. *Communications Earth & Environment* (2024). (Accepted).
 
 [19] **Ying Tu**, Shengbiao Wu, Bin Chen, Qihao Weng, Peng Gong, Yuqi Bai, Jun Yang, Le Yu, and Bing Xu\*. [A 30 m annual cropland dataset of China from 1986 to 2021](https://essd.copernicus.org/articles/16/2297/2024/){:target="_blank"}. *Earth System Science Data* 16 (2024): 2297–2316.
 
