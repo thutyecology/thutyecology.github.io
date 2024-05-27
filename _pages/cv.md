@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<center><embed src="../assets/CV_YING_TU_2401.pdf" width="1200" height="1000"></center>
+<center><embed src="../assets/CV_YING_TU_2406.pdf" width="1200" height="1000"></center>
