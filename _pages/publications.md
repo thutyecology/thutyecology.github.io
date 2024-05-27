@@ -9,9 +9,6 @@ author_profile: true
 
 *corresponding author, #co-first author  
 
-**Articles Under Consideration**
-
-[21]	**Ying Tu**, Bin Chen\*, Shengbiao Wu, Jiafu An, Chen Lin, Peng Gong, and Bing Xu\*. Contrasting difference in human access to socio-economic-environmental infrastructure between Global North and Global South. (Submitted).
 
 **Articles in Peer-reviewed Journals**
 
