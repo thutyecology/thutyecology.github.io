@@ -12,7 +12,9 @@ author_profile: true
 
 **Articles in Peer-reviewed Journals**
 
-[20] Bin Chen#, **Ying Tu**\#, Jiafu An#, Shengbiao Wu, Chen Lin\*, and Peng Gong\*. Quantification of losses in agriculture production in eastern Ukraine due to the Russia-Ukraine war. *Communications Earth & Environment* (2024). (Accepted).
+[21] Hong Wei, Bin Chen, Kangning Huang, Meng Gao, Bin Fan, Tao Zhang, **Ying Tu**, and Bing Xu. [Moderating AC Usage Can Reduce Thermal Disparity between Indoor and Outdoor Environments](https://pubs.acs.org/doi/full/10.1021/acs.est.4c00424). *Environmental Science & Technology* 58 (2024): 10524-10535.
+
+[20] Bin Chen#, **Ying Tu**\#, Jiafu An#, Shengbiao Wu, Chen Lin\*, and Peng Gong\*. [Quantification of losses in agriculture production in eastern Ukraine due to the Russia-Ukraine war](https://doi.org/10.1038/s43247-024-01488-3). *Communications Earth & Environment* 5 (2024): 336.
 
 [19] **Ying Tu**, Shengbiao Wu, Bin Chen, Qihao Weng, Peng Gong, Yuqi Bai, Jun Yang, Le Yu, and Bing Xu\*. [A 30 m annual cropland dataset of China from 1986 to 2021](https://essd.copernicus.org/articles/16/2297/2024/){:target="_blank"}. *Earth System Science Data* 16 (2024): 2297–2316.
 
