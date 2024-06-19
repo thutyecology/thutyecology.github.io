@@ -6,11 +6,14 @@ author_profile: true
 ---
 
 --------------------------------------------------
+**June 2024**
+* Our manuscript on "Quantification of losses in agriculture production in eastern Ukraine due to the Russia-Ukraine war" has been published in *Communications Earth & Environment*.
+* One co-authored manuscript "Moderating AC Usage Can Reduce Thermal Disparity between Indoor and Outdoor Environments" has been published in *Environmental Science & Technology*.
+
 **May 2024**
 * One co-authored manuscript "Spatial Patterns of Urban Expansion and Cropland Loss during 2017-2022 in Guangdong, China" has been published in *Heliyon*.
 
 **April 2024**
-* Our manuscript on "Quantification of losses in agriculture production in eastern Ukraine due to the Russia-Ukraine war" has been accepted for publication in *Communications Earth & Environment*.
 * One co-authored manuscript "Built environments, communities, and housing price: A data-model integration approach" has been accepted for publication in *Applied Geography*.
 * 🎓 Beyond grateful to receive my PhD today! This journey has been a rollercoaster of challenges and triumphs, but every hurdle has led to this moment. Huge thanks to my advisors, family, and friends for their unwavering support. Excited for what lies ahead!
 
