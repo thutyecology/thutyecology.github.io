@@ -7,7 +7,7 @@ author_profile: true
 
 --------------------------------------------------
 **July 2024**
-* Dr. Tu was awarded the 2024 Outstanding Doctoral Dissertation of Tsinghua University.
+* Dr. Tu was awarded the **2024 Outstanding Doctoral Dissertation of Tsinghua University**.
 
 **June 2024**
 * Our manuscript on "Quantification of losses in agriculture production in eastern Ukraine due to the Russia-Ukraine war" has been published in *Communications Earth & Environment*.
