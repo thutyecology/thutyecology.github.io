@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 --------------------------------------------------
+**August 2024**
+* One co-authored manuscript "Mapping the Time-Series of Essential Urban Land Use Categories in China: A Multi-Source Data Integration Approach" has been published in *Remote Sensing*.
+
 **July 2024**
 * Dr. Tu was awarded the **2024 Outstanding Doctoral Dissertation of Tsinghua University**.
 
