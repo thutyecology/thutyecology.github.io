@@ -12,7 +12,9 @@ author_profile: true
 
 **Articles in Peer-reviewed Journals**
 
-[21] Hong Wei, Bin Chen, Kangning Huang, Meng Gao, Bin Fan, Tao Zhang, **Ying Tu**, and Bing Xu. [Moderating AC Usage Can Reduce Thermal Disparity between Indoor and Outdoor Environments](https://pubs.acs.org/doi/full/10.1021/acs.est.4c00424). *Environmental Science & Technology* 58 (2024): 10524-10535.
+[22] Tian Tian, Le Yu, **Ying Tu**, Bin Chen, and Peng Gong\*. [Mapping the Time-Series of Essential Urban Land Use Categories in China: A Multi-Source Data Integration Approach](https://www.mdpi.com/2072-4292/16/17/3125). *Remote Sensing* 16.17 (2024): 3125.
+
+[21] Hong Wei, Bin Chen, Kangning Huang, Meng Gao, Bin Fan, Tao Zhang, **Ying Tu**, and Bing Xu\*. [Moderating AC Usage Can Reduce Thermal Disparity between Indoor and Outdoor Environments](https://pubs.acs.org/doi/full/10.1021/acs.est.4c00424). *Environmental Science & Technology* 58 (2024): 10524-10535.
 
 [20] Bin Chen#, **Ying Tu**\#, Jiafu An#, Shengbiao Wu, Chen Lin\*, and Peng Gong\*. [Quantification of losses in agriculture production in eastern Ukraine due to the Russia-Ukraine war](https://doi.org/10.1038/s43247-024-01488-3). *Communications Earth & Environment* 5 (2024): 336.
 
