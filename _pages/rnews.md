@@ -14,11 +14,11 @@ author_profile: true
 ![](https://thutyecology.github.io/images/rice-paddy-2.jpg){:height="150px" width="250px"}
 ![](https://thutyecology.github.io/images/rice-paddy-3.jpg){:height="150px" width="250px"}
 
-Photos of rice paddies at Cornell's experimental farmland, Freeville, New York, 13068
+Photos of rice paddies at Cornell's experimental farmland, Freeville, NY, 13068
 
 ![](https://thutyecology.github.io/images/rice-paddy-4.jpg){:height="200px" width="400px"}
 
-Samples of cooked rice
+Samples of cooked rice and taste test
 
 
 **August 2024**
