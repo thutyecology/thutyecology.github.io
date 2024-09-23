@@ -10,12 +10,14 @@ author_profile: true
 
 * Dr. Tu was invited to present on "Remote Sensing and Climate Adaptation in Agricultural Floodplain Regions" at the *Cornell Cooperative Extension (CCE) Executive Leadership Conference* in Freeville. During the visit, she toured paddy rice farms and discussed the potential for rice farming in New York State with local farmers and county executive directors. The group also tasted cooked rice samples and conducted a willingness-to-pay survey among participants.
 
-![](https://thutyecology.github.io/images/rice-paddy-1.jpg){:height="150px" width="200px"}
-![](https://thutyecology.github.io/images/rice-paddy-2.jpg){:height="150px" width="200px"}
-![](https://thutyecology.github.io/images/rice-paddy-3.jpg){:height="150px" width="200px"}
+![](https://thutyecology.github.io/images/rice-paddy-1.jpg){:height="150px" width="250px"}
+![](https://thutyecology.github.io/images/rice-paddy-2.jpg){:height="150px" width="250px"}
+![](https://thutyecology.github.io/images/rice-paddy-3.jpg){:height="150px" width="250px"}
+
 Photos of rice paddies at Cornell's experimental farmland, Freeville, New York, 13068
 
-![](https://thutyecology.github.io/images/rice-paddy-4.jpg){:height="200px" width="500px"}
+![](https://thutyecology.github.io/images/rice-paddy-4.jpg){:height="200px" width="400px"}
+
 Samples of cooked rice
 
 
