@@ -28,7 +28,7 @@ Interactive maps:
     allowfullscreen>
 </iframe>
 
-For more information on CACD, please refer to our accompanied paper: Ying Tu, Shengbiao Wu, Bin Chen, Qihao Weng, Peng Gong, Yuqi Bai, Jun Yang, Le Yu, and Bing Xu\*. [A 30 m annual cropland dataset of China from 1986 to 2021](https://doi.org/10.5194/essd-2023-190){:target="_blank"}. *Earth System Science Data*. (Under review).
+For more information on CACD, please refer to our accompanied paper: Ying Tu, Shengbiao Wu, Bin Chen, Qihao Weng, Peng Gong, Yuqi Bai, Jun Yang, Le Yu, and Bing Xu\*. [A 30 m annual cropland dataset of China from 1986 to 2021](https://essd.copernicus.org/articles/16/2297/2024/essd-16-2297-2024.html){:target="_blank"}. *Earth System Science Data*. (2024): 2297-2316.
     
 
 The 10 m land cover dataset of Guangdong, China in 2019
