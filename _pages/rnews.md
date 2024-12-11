@@ -6,6 +6,14 @@ author_profile: true
 ---
 
 --------------------------------------------------
+**December 2024**
+
+* Dr. Tu attended the *American Geophysical Union (AGU) Fall Meeting 2024* in Washington, D.C. and delivered an oral presentation on "Assessing the Suitability of Agricultural Floodplain Rice Farming as Adaptation to Climate Change in the United States".
+
+**October 2024**
+
+* Dr. Tu participated in the *Cornell Rice Field Day* and presented on "Climate Adaptation and the Potential for Flood-Tolerant Agriculture in New York State".
+
 **September 2024**
 
 * Dr. Tu was invited to present on "Remote Sensing and Climate Adaptation in Agricultural Floodplain Regions" at the *Cornell Cooperative Extension (CCE) Executive Leadership Conference* in Freeville. During the visit, she toured paddy rice farms and discussed the potential for rice farming in New York State with local farmers and county executive directors. The group also tasted cooked rice samples and conducted a willingness-to-pay survey among participants.
