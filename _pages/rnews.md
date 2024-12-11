@@ -8,7 +8,7 @@ author_profile: true
 --------------------------------------------------
 **December 2024**
 
-* Dr. Tu attended the *American Geophysical Union (AGU) Fall Meeting 2024* in Washington, D.C. and delivered an oral presentation on "Assessing the Suitability of Agricultural Floodplain Rice Farming as Adaptation to Climate Change in the United States".
+* Dr. Tu attended the *American Geophysical Union (AGU) Fall Meeting 2024* in Washington, D.C. and delivered an oral presentation on ["Assessing the Suitability of Agricultural Floodplain Rice Farming as Adaptation to Climate Change in the United States"]([https://cals.cornell.edu/chuan-liao](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1538342)){:target="_blank"}.
 
 **October 2024**
 
