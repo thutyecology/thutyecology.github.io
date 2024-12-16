@@ -13,7 +13,7 @@ I am currently a Postdoctoral Associate at the [Department of Global Development
 Research Interests
 ======
 * Land Cover/Land Use Monitoring
-* Agricultural Sustainability
+* Climate Change & Agricultural Sustainability
 * Environment, Development, and Justice
 
 
