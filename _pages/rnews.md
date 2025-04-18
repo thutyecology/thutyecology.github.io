@@ -6,6 +6,15 @@ author_profile: true
 ---
 
 --------------------------------------------------
+**April 2025**
+
+* Our manuscript "Inequality in infrastructure access and its association with health disparities" has been accepted by *Nature Human Behaviour*. What a major milestone after almost two years of effort!
+* One co-authored manuscript "A Global Review of Monitoring Cropland Abandonment using Remote Sensing methodology: Tempo-spatial Patterns, Causes, Ecological Effects, and Future Prospects" has been published in *Journal of Remote Sensing*.
+
+**March 2025**
+
+* Dr. Tu attended the *2025 American Association of Geographers (AAG) Annual Meeting* in Detroit, MI, where she delivered an oral presentation titled ["Urbanizing through Special Economic Zones? Territorial Outcomes of Chinese-Contracted Industrial Parks in Ethiopia"](https://aag.secure-platform.com/aag2025/solicitations/82/sessiongallery/22808/application/40655){:target="_blank"}.
+
 **December 2024**
 
 * Dr. Tu attended the *American Geophysical Union (AGU) Fall Meeting 2024* in Washington, D.C. and delivered an oral presentation on ["Assessing the Suitability of Agricultural Floodplain Rice Farming as Adaptation to Climate Change in the United States"](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1538342){:target="_blank"}.
