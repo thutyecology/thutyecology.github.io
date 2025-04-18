@@ -8,7 +8,7 @@ author_profile: true
 --------------------------------------------------
 **April 2025**
 
-* Our manuscript "Inequality in infrastructure access and its association with health disparities" has been accepted by *Nature Human Behaviour*. What a major milestone after almost two years of effort!
+* Our manuscript "Inequality in infrastructure access and its association with health disparities" has been accepted by *Nature Human Behaviour*. What a milestone after almost two years of effort!
 * One co-authored manuscript "A Global Review of Monitoring Cropland Abandonment using Remote Sensing methodology: Tempo-spatial Patterns, Causes, Ecological Effects, and Future Prospects" has been published in *Journal of Remote Sensing*.
 
 **March 2025**
