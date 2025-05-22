@@ -12,7 +12,11 @@ author_profile: true
 
 **Articles in Peer-reviewed Journals**
 
-[22] Tian Tian, Le Yu, **Ying Tu**, Bin Chen, and Peng Gong\*. [Mapping the Time-Series of Essential Urban Land Use Categories in China: A Multi-Source Data Integration Approach](https://www.mdpi.com/2072-4292/16/17/3125). *Remote Sensing* 16.17 (2024): 3125.
+[24] **Ying Tu**, Bin Chen\*, Chuan Liao\*, Shengbiao Wu, Jiafu An, Chen Lin, Peng Gong, Bin Chen, Hong Wei, Bing Xu\*. [Inequality in infrastructure access and its association with health disparities](https://www.nature.com/articles/s41562-025-02208-3). *Nature Human Behaviour*. (2025).
+
+[23] Tao Liu, Le Yu, Xiaoxuan Liu, Dailiang Peng, Xin Chen, Zhenrong Du, **Ying Tu**, Hui Wu, Qiang Zhao. [A Global Review of Monitoring Cropland Abandonment using Remote Sensing methodology: Tempo-spatial Patterns, Causes, Ecological Effects, and Future Prospects](https://spj.science.org/doi/10.34133/remotesensing.0584). *Journal of Remote Sensing* (2025).
+
+[22] Tian Tian, Le Yu\*, **Ying Tu**, Bin Chen, and Peng Gong\*. [Mapping the Time-Series of Essential Urban Land Use Categories in China: A Multi-Source Data Integration Approach](https://www.mdpi.com/2072-4292/16/17/3125). *Remote Sensing* 16.17 (2024): 3125.
 
 [21] Hong Wei, Bin Chen, Kangning Huang, Meng Gao, Bin Fan, Tao Zhang, **Ying Tu**, and Bing Xu\*. [Moderating AC Usage Can Reduce Thermal Disparity between Indoor and Outdoor Environments](https://pubs.acs.org/doi/full/10.1021/acs.est.4c00424). *Environmental Science & Technology* 58 (2024): 10524-10535.
 
