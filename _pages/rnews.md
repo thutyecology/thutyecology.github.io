@@ -19,6 +19,10 @@ author_profile: true
 
 * Dr. Tu attended the *2025 American Association of Geographers (AAG) Annual Meeting* in Detroit, MI, where she delivered an oral presentation titled ["Urbanizing through Special Economic Zones? Territorial Outcomes of Chinese-Contracted Industrial Parks in Ethiopia"](https://aag.secure-platform.com/aag2025/solicitations/82/sessiongallery/22808/application/40655){:target="_blank"}.
 
+**February 2025**
+
+* Dr. Tu was invited by Prof. Hanlin Zhou from the University of Connecticut to give a guest lecture on "Harnessing Earth Observation and GeoAI to Monitor and Understand Global Environmental Change" in the course GEOG 4095/5895 Introduction to Geospatial Artificial Intelligence.
+
 **December 2024**
 
 * Dr. Tu attended the *American Geophysical Union (AGU) Fall Meeting 2024* in Washington, D.C. and delivered an oral presentation on ["Assessing the Suitability of Agricultural Floodplain Rice Farming as Adaptation to Climate Change in the United States"](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1538342){:target="_blank"}.
