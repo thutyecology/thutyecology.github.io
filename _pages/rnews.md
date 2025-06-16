@@ -18,6 +18,7 @@ author_profile: true
 **March 2025**
 
 * Dr. Tu attended the *2025 American Association of Geographers (AAG) Annual Meeting* in Detroit, MI, where she delivered an oral presentation titled ["Urbanizing through Special Economic Zones? Territorial Outcomes of Chinese-Contracted Industrial Parks in Ethiopia"](https://aag.secure-platform.com/aag2025/solicitations/82/sessiongallery/22808/application/40655){:target="_blank"}.
+* Dr. Tu was invited by Prof. Chuan Liao to deliver a guest lecture on "Hands-on Introduction to Google Earth Engine" in the course GDEV 3170/5170 Land Systems and Sustainability at Cornell University.
 
 **February 2025**
 
