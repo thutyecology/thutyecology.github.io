@@ -5,7 +5,16 @@ permalink: /research/
 author_profile: true
 ---
 
---------------------------------------------------
-**July 2025**
+<h2>Research Themes</h2>
 
-* test
+<div class="research-grid">
+  {% for item in site.data.research %}
+    <div class="research-card">
+      <a href="{{ item.url }}">
+        <img src="{{ item.image }}" alt="{{ item.title }}">
+        <h3>{{ item.title }}</h3>
+      </a>
+      <p>{{ item.summary }}</p>
+    </div>
+  {% endfor %}
+</div>
