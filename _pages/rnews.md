@@ -6,13 +6,18 @@ author_profile: true
 ---
 
 --------------------------------------------------
+**July 2025**
+
+* Our manuscript ["Inequality in infrastructure access and its association with health disparities"](https://www.nature.com/articles/s41562-025-02208-3){:target="_blank"} has been shortlisted for the **August 2025 cover** by *Nature Human Behaviour*. Dr. Tu was also interviewed by Natsumi Penberthy, Senior Editor from *Nature Portfolio*, to discuss this work and her research experience.
+
+
 **June 2025**
 
 * Our research paper ["A 30 m annual cropland dataset of China from 1986 to 2021"](https://essd.copernicus.org/articles/16/2297/2024/essd-16-2297-2024.html){:target="_blank"} is recognized as an **ESI Highly Cited Paper**.
 
 **April 2025**
 
-* Our manuscript ["Inequality in infrastructure access and its association with health disparities"](https://www.nature.com/articles/s41562-025-02208-3){:target="_blank"} has been accepted by **Nature Human Behaviour**. What a milestone after almost two years of effort! Thank you to all my co-authors, editors, and reviewers for their invaluable contributions and suggestions.
+* Our manuscript "Inequality in infrastructure access and its association with health disparities" has been accepted by **Nature Human Behaviour**. What a milestone after almost two years of effort! Thank you to all my co-authors, editors, and reviewers for their invaluable contributions and suggestions.
 * One co-authored manuscript "A Global Review of Monitoring Cropland Abandonment using Remote Sensing methodology: Tempo-spatial Patterns, Causes, Ecological Effects, and Future Prospects" has been published in *Journal of Remote Sensing*.
 
 **March 2025**
