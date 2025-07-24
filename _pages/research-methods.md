@@ -5,4 +5,4 @@ permalink: /research/methods/
 author_profile: true
 ---
 
-More update soon
+More updates soon
