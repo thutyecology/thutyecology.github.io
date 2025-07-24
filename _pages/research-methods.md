@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /research/methods/
-author_profile: true
+author_profile: false
 ---
 
 Mapping Essential Urban Land Use Categories (EULUC)
