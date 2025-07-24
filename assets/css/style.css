@@ -1,0 +1,38 @@
+.research-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: space-between;
+  margin-top: 2rem;
+}
+
+.research-card {
+  width: 30%;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+  background: #fff;
+  transition: transform 0.2s;
+  text-align: center;
+}
+
+.research-card:hover {
+  transform: translateY(-5px);
+}
+
+.research-card img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.research-card h3 {
+  font-size: 1.1rem;
+  margin: 0.8rem 0 0.3rem;
+}
+
+.research-card p {
+  padding: 0 1rem 1rem;
+  color: #555;
+  font-size: 0.95rem;
+}
