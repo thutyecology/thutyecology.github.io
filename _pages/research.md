@@ -1,12 +1,9 @@
 ---
 layout: archive
-title: "Research"
+title: "Research Themes"
 permalink: /research/
 author_profile: true
 ---
-
-
-**Research Themes**
 
 <style>
 .research-grid {
@@ -18,7 +15,7 @@ author_profile: true
 }
 
 .research-card {
-  width: 250px;
+  width: 270px;
   border-radius: 10px;
   overflow: hidden;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
@@ -33,7 +30,7 @@ author_profile: true
 
 .research-card img {
   width: 100%;
-  height: 250px;
+  height: 270px;
   object-fit: cover;
 }
 
