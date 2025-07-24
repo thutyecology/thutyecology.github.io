@@ -1,0 +1,18 @@
+---
+layout: default
+title: Research
+---
+
+<h2>Research Themes</h2>
+
+<div class="research-grid">
+  {% for item in site.data.research %}
+    <div class="research-card">
+      <a href="{{ item.url }}">
+        <img src="{{ item.image }}" alt="{{ item.title }}">
+        <h3>{{ item.title }}</h3>
+      </a>
+      <p>{{ item.summary }}</p>
+    </div>
+  {% endfor %}
+</div>
