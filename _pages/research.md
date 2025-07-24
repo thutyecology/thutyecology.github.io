@@ -40,21 +40,21 @@ author_profile: true
 
 <div class="research-card">
   <a href="/research/methods">
-    <img src="/assets/images/theme1.png">
+    <img src="/images/theme1.png">
     <div class="research-card-title">Advancing GeoAI and Remote Sensing Computational Methodologies</div>
   </a>
 </div>
 
 <div class="research-card">
   <a href="/research/equity">
-    <img src="/assets/images/theme2.png">
+    <img src="/images/theme2.png">
     <div class="research-card-title">Human–Environment Interactions I: Exposure, Equity, and Well-being</div>
   </a>
 </div>
 
 <div class="research-card">
   <a href="/research/agriculture">
-    <img src="/assets/images/theme3.png">
+    <img src="/images/theme3.png">
     <div class="research-card-title">Human–Environment Interactions II: Agricultural Response and Adaptation</div>
   </a>
 </div>
