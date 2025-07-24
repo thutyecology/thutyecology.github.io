@@ -9,30 +9,36 @@ author_profile: true
 .research-grid {
   display: flex;
   flex-wrap: wrap;
-  gap: 20px;
   justify-content: center;
-  align-items: stretch;
+  gap: 20px;
+  margin-top: 20px;
 }
+
 .research-card {
-  width: 100px;
-  border-radius: 8px;
+  width: 120px;
+  border-radius: 10px;
   overflow: hidden;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-  transition: transform 0.2s;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
   text-align: center;
+  background: #fff;
+  transition: transform 0.2s;
 }
+
 .research-card:hover {
-  transform: scale(1.02);
+  transform: translateY(-5px);
 }
+
 .research-card img {
   width: 100%;
   height: 100px;
   object-fit: cover;
 }
+
 .research-card-title {
-  padding: 15px;
-  font-weight: bold;
-  font-size: 16px;
+  padding: 12px;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 1.3;
 }
 </style>
 
@@ -40,21 +46,21 @@ author_profile: true
 
 <div class="research-card">
   <a href="/research/methods">
-    <img src="/images/theme1.png">
+    <img src="/images/theme1.png" alt="Theme 1">
     <div class="research-card-title">Advancing GeoAI and Remote Sensing Computational Methodologies</div>
   </a>
 </div>
 
 <div class="research-card">
   <a href="/research/equity">
-    <img src="/images/theme2.png">
+    <img src="/images/theme2.png" alt="Theme 2">
     <div class="research-card-title">Human–Environment Interactions I: Exposure, Equity, and Well-being</div>
   </a>
 </div>
 
 <div class="research-card">
   <a href="/research/agriculture">
-    <img src="/images/theme3.png">
+    <img src="/images/theme3.png" alt="Theme 3">
     <div class="research-card-title">Human–Environment Interactions II: Agricultural Response and Adaptation</div>
   </a>
 </div>
