@@ -5,4 +5,4 @@ permalink: /research/agriculture/
 author_profile: false
 ---
 
-More update soon
+More updates soon
