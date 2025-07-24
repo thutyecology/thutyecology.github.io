@@ -5,64 +5,14 @@ permalink: /research/
 author_profile: true
 ---
 
-<style>
-.research-grid {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 20px;
-  margin-top: 20px;
-}
 
-.research-card {
-  width: 120px;
-  border-radius: 10px;
-  overflow: hidden;
-  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
-  text-align: center;
-  background: #fff;
-  transition: transform 0.2s;
-}
+**Theme I**: [Advancing GeoAI and Remote Sensing Computational Methodologies](https://thutyecology.github.io/research/methods)
+![](https://thutyecology.github.io/images/theme1.png){:height="200px" width="200px"}
 
-.research-card:hover {
-  transform: translateY(-5px);
-}
 
-.research-card img {
-  width: 100%;
-  height: 100px;
-  object-fit: cover;
-}
+**Theme II**: [Exposure, Equity, and Well-being](https://thutyecology.github.io/research/equity)
+![](https://thutyecology.github.io/images/theme2.png){:height="200px" width="200px"}
 
-.research-card-title {
-  padding: 12px;
-  font-size: 14px;
-  font-weight: 600;
-  line-height: 1.3;
-}
-</style>
 
-<div class="research-grid">
-
-<div class="research-card">
-  <a href="/research/methods">
-    <img src="/images/theme1.png" alt="Theme 1">
-    <div class="research-card-title">Advancing GeoAI and Remote Sensing Computational Methodologies</div>
-  </a>
-</div>
-
-<div class="research-card">
-  <a href="/research/equity">
-    <img src="/images/theme2.png" alt="Theme 2">
-    <div class="research-card-title">Human–Environment Interactions I: Exposure, Equity, and Well-being</div>
-  </a>
-</div>
-
-<div class="research-card">
-  <a href="/research/agriculture">
-    <img src="/images/theme3.png" alt="Theme 3">
-    <div class="research-card-title">Human–Environment Interactions II: Agricultural Response and Adaptation</div>
-  </a>
-</div>
-
-</div>
+**Theme III**: [Agricultural Response and Adaptation](https://thutyecology.github.io/research/agriculture)
+![](https://thutyecology.github.io/images/theme3.png){:height="200px" width="200px"}
