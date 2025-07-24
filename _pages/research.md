@@ -1,10 +1,9 @@
 ---
-layout: archive
+layout: default
 title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
 
 <h2>Research Themes</h2>
 
