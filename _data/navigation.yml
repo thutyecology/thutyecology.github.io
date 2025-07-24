@@ -6,15 +6,15 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "CV"
-    url: /cv/
-    
   - title: "Research"
     url: /research/    
     
   - title: "Data"
     url: /rdata/
-        
+
+  - title: "CV"
+    url: /cv/
+    
   #- title: "Blog Posts"
     #url: /year-archive/
       
