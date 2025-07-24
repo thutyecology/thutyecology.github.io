@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Advancing Computational Methodologies
+title: Advancing GeoAI and Remote Sensing Methodologies
 permalink: /research/methods/
 ---
 
