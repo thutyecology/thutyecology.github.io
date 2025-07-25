@@ -20,7 +20,7 @@ Conceptual framework and research design. a, Definition and classification of ec
 
 ![](https://thutyecology.github.io/images/chinese-access-inequality-v12.jpg){:height="300px" width="900px"}
 
-Left panel: Country-level distributions of human access to infrastructure. Right panel:Country-level infrastructure access inequalities measured by the Gini coefficient.
+Left panel: Country-level distributions of human access to infrastructure. Right panel: Country-level infrastructure access inequalities measured by the Gini coefficient.
 
 ![](https://thutyecology.github.io/images/infrastructure-composite.png){:height="200px" width="800px"}
 
