@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /research/methods-cacd/
+permalink: /research/methods/cacd/
 author_profile: false
 title: China's Annual Cropland Dataset (CACD)
 ---
