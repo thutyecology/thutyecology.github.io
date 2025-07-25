@@ -46,7 +46,7 @@ author_profile: false
 
 <div class="research-card">
   <a href="/research/agriculture/ruwar">
-    <img src="/images/greenspace.png">
+    <img src="/images/RUwar.png">
     <div class="research-card-title">War Impact on Agriculture</div>
   </a>
 </div>
