@@ -11,3 +11,5 @@ The Olympic Games are one of the most influential mega-events worldwide, yet lit
 ![](https://thutyecology.github.io/images/olympic-city.png){:height="200px" width="800px"}
 
 An overview of eight host cities of the Summer Olympics between 1988 and 2016. Fractional greenspace maps of the eight Olympic host cities overlaid with their white urban boundaries above. The greener represents a higher greenspace cover rate (ranging from 0 to 1). Black indicates no greenspace coverage.
+
+Reference: Ying Tu, Bin Chen, Jun Yang, and Bing Xu. [Olympic effects on reshaping urban greenspace of host cities.](https://doi.org/10.1016/j.landurbplan.2022.104615){:target="_blank"} *Landscape and Urban Planning* 230 (2023): 104615.
