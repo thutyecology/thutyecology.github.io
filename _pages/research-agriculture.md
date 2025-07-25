@@ -53,7 +53,7 @@ author_profile: false
 
 <div class="research-card">
   <a href="/research/agriculture/rice">
-    <img src="/images/infrastructure.png">
+    <img src="/images/rice.png">
     <div class="research-card-title">Floodplain Rice Farming</div>
   </a>
 </div>
