@@ -52,6 +52,10 @@ The map was generated using numerous publicly available satellite imagery and a 
 
 <center>The 10-m crop type map of Ukraine in 2020.</center>
 
+Reference: Bin Chen, Ying Tu, Jiafu An, Shengbiao Wu, Chen Lin, and Peng Gong. [Quantification of losses in agriculture production in eastern Ukraine due to the Russia-Ukraine war](https://doi.org/10.1038/s43247-024-01488-3). *Communications Earth & Environment* 5 (2024): 336.
+
+
+
 The 10 m land cover dataset of Guangdong, China in 2019
 -----
 
