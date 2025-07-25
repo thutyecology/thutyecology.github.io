@@ -18,7 +18,7 @@ Conceptual framework and research design. a, Definition and classification of ec
 
 **Despite hosting 85% of the global population, Global South countries have 50–80% of the infrastructure access but experience 9–44% higher inequalities compared with Global North countries**. In particular, African and Asian countries stand out with the lowest levels of infrastructure access and equality, which highlights a severe deficiency in local infrastructure conditions. Although the Global North generally demonstrates higher access and lower inequality in infrastructure than the Global South, this by no means suggests that infrastructure development within these countries is uniform. Even in the developed world, we find a considerable number of countries with severe inequalities in infrastructure access, particularly in the social dimension, where 42 of the 54 Global North countries have a Gini value larger than 0.7. Our composite maps also highlight distinct regional disparities within Global North countries. For example, in Class I countries such as Canada and the United States, 16% (541 out of 3,402) of their counties are classified under Class II or III. Conversely, Class II or III countries, such as those in Africa and Asia, can encompass regions classified as Class I.
 
-![](https://thutyecology.github.io/images/chinese-access-inequality-v12.jpg){:height="200px" width="800px"}
+![](https://thutyecology.github.io/images/chinese-access-inequality-v12.jpg){:height="300px" width="900px"}
 
 Left panel: Country-level distributions of human access to infrastructure. Right panel:Country-level infrastructure access inequalities measured by the Gini coefficient.
 
