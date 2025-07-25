@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /research-methods/
+permalink: /research/methods/
 author_profile: false
 ---
 
