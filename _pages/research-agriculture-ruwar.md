@@ -15,3 +15,5 @@ The ongoing war in Ukraine has seriously impacted the agricultural sector, yet i
 ![](https://thutyecology.github.io/images/ukraine-loss.png){:height="200px" width="800px"}
 
 The direct impact signifies the economic loss caused by unplanted crops during the war, while the indirect impact refers to the economic loss of planted crops caused by reduced production. The areas of affected crops are calculated based on sample estimation, with error bars indicating the 95% confidence intervals. Unit: million USD.
+
+Reference: Bin Chen, Ying Tu, Jiafu An, Shengbiao Wu, Chen Lin, and Peng Gong. [Quantification of losses in agriculture production in eastern Ukraine due to the Russia-Ukraine war](https://doi.org/10.1038/s43247-024-01488-3). *Communications Earth & Environment* 5 (2024): 336.
