@@ -44,14 +44,14 @@ author_profile: false
 <div class="research-grid">
 
 <div class="research-card">
-  <a href="/research/methods-euluc">
+  <a href="/research/methods/euluc">
     <img src="/images/theme1.png" alt="Theme 1">
     <div class="research-card-title">Urban Area</div>
   </a>
 </div>
 
 <div class="research-card">
-  <a href="/research/methods-cacd">
+  <a href="/research/methods/cacd">
     <img src="/images/theme3.png" alt="Theme 3">
     <div class="research-card-title">Cropland</div>
   </a>
