@@ -2,12 +2,12 @@
 main:
   - title: "Recent News"
     url: /rnews/    
-    
-  - title: "Publications"
-    url: /publications/
 
   - title: "Research"
     url: /research/    
+    
+  - title: "Publications"
+    url: /publications/
     
   - title: "Data"
     url: /rdata/
