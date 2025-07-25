@@ -15,7 +15,7 @@ The dataset was produced by using numerous Landsat satellite images on the cloud
 * Download URL: [https://zenodo.org/records/7936885](https://zenodo.org/records/7936885){:target="_blank"}
 * Data format: .tif
 * Pixel size: 30 m
-* Projection: EPSG: 4326 (WGS84)
+* Projection: EPSG-4326 (WGS84)
 * Values: 1 denotes cropland and 0 denotes non-cropland
 
 Interactive maps:
@@ -29,7 +29,28 @@ Interactive maps:
 </iframe>
 
 For more information on CACD, please refer to our accompanied paper: Ying Tu, Shengbiao Wu, Bin Chen, Qihao Weng, Peng Gong, Yuqi Bai, Jun Yang, Le Yu, and Bing Xu\*. [A 30 m annual cropland dataset of China from 1986 to 2021](https://essd.copernicus.org/articles/16/2297/2024/essd-16-2297-2024.html){:target="_blank"}. *Earth System Science Data*. (2024): 2297-2316.
-    
+
+
+
+The 10-m crop type map of Ukraine in 2020
+-----
+The map was generated using numerous publicly available satellite imagery and a semi-supervised learning approach.
+
+* Download URL: [https://zenodo.org/records/11065080](https://zenodo.org/records/11065080){:target="_blank"}
+* Data format: .tif
+* Pixel size: 10 m
+* Projection: EPSG-4326 (WGS84)
+* Classification system:
+0 --- Non-cropland
+1 --- Wheat
+2 --- Sunflower
+3 --- Rapeseed
+4 --- Other
+5 --- Maize
+
+![](https://thutyecology.github.io/images/ukriane-crop.png)
+
+<center>The 10-m crop type map of Ukraine in 2020.</center>
 
 The 10 m land cover dataset of Guangdong, China in 2019
 -----
@@ -40,7 +61,7 @@ Land cover information depicting the complex interactions between human activiti
 * Download URL: [https://drive.google.com/drive/folders/1jMmM6VXK8yNpAQ0M4TZ0c3DSwxtGa46l?usp=sharing](https://drive.google.com/drive/folders/1jMmM6VXK8yNpAQ0M4TZ0c3DSwxtGa46l?usp=sharing){:target="_blank"}
 * Data format: .tif
 * Pixel size: 10 m
-* Projection: EPSG: 4326 (WGS84)
+* Projection: EPSG-4326 (WGS84)
 * Classification system:
 
 | Class            | Value  |
@@ -57,7 +78,7 @@ Land cover information depicting the complex interactions between human activiti
 
 ![](https://thutyecology.github.io/images/lc-gd-2019.jpg)
 
-<center>10-m Land cover map for Guangdong Province in 2019.</center>
+<center>The 10-m Land cover map for Guangdong Province in 2019.</center>
 
 Reference: Ying Tu, Wei Lang, Le Yu, Ying Li, Junhao Jiang, Yawen Qin, Jiemin Wu, Tingting Chen, and Bing Xu\*. [Improved Mapping Results of 10 m Resolution Land Cover Classification in Guangdong, China Using Multisource Remote Sensing Data With Google Earth Engine.](https://ieeexplore.ieee.org/document/9187534){:target="_blank"} *IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing* 13 (2020): 5384-5397.
 
