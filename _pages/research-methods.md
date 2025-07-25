@@ -46,14 +46,14 @@ author_profile: false
 <div class="research-card">
   <a href="/research/methods/euluc">
     <img src="/images/euluc-china-2.png" alt="Theme 1">
-    <div class="research-card-title">Urban Area</div>
+    <div class="research-card-title">Urban Land Use</div>
   </a>
 </div>
 
 <div class="research-card">
   <a href="/research/methods/cacd">
     <img src="/images/cacd.png" alt="Theme 3">
-    <div class="research-card-title">Cropland</div>
+    <div class="research-card-title">Cropland Dynamics</div>
   </a>
 </div>
 
