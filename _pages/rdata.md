@@ -40,13 +40,17 @@ The map was generated using numerous publicly available satellite imagery and a 
 * Data format: .tif
 * Pixel size: 10 m
 * Projection: EPSG-4326 (WGS84)
-* Values:
-0 --- Non-cropland
-1 --- Wheat
-2 --- Sunflower
-3 --- Rapeseed
-4 --- Other
-5 --- Maize
+* Classification system:
+
+| Class            | Value  |
+|     --------     | ------ |
+| Non-cropland     | 0      |
+| Wheat            | 1      |
+| Sunflower        | 2      |
+| Rapeseed         | 3      |
+| Other            | 4      |
+| Maize            | 5      |
+
 
 ![](https://thutyecology.github.io/images/ukriane-crop.png)
 
