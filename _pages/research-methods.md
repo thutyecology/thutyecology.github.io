@@ -2,6 +2,7 @@
 layout: archive
 permalink: /research/methods/
 author_profile: false
+title: Advancing GeoAI and Remote Sensing Computational Methodologies
 ---
 
 <style>
