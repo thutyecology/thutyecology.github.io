@@ -40,7 +40,7 @@ The map was generated using numerous publicly available satellite imagery and a 
 * Data format: .tif
 * Pixel size: 10 m
 * Projection: EPSG-4326 (WGS84)
-* Classification system:
+* Values:
 0 --- Non-cropland
 1 --- Wheat
 2 --- Sunflower
