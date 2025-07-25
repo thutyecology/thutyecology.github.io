@@ -45,14 +45,14 @@ author_profile: false
 
 <div class="research-card">
   <a href="/research/methods/euluc">
-    <img src="/images/theme1.png" alt="Theme 1">
+    <img src="/images/euluc-china-2.png" alt="Theme 1">
     <div class="research-card-title">Urban Area</div>
   </a>
 </div>
 
 <div class="research-card">
   <a href="/research/methods/cacd">
-    <img src="/images/theme3.png" alt="Theme 3">
+    <img src="/images/cacd.png" alt="Theme 3">
     <div class="research-card-title">Cropland</div>
   </a>
 </div>
