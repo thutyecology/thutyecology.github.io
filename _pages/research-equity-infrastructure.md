@@ -11,7 +11,7 @@ Economic, social and environmental infrastructure forms a fundamental pillar of 
 Given the broad interpretation of infrastructure, here we define *infrastructure* as the physical systems and facilities essential for the functioning of the economy and society, *infrastructure access* as individuals’ capacity to reach and use nearby infrastructure, and *infrastructure access inequality* as geographical disparities in the availability of these systems and facilities. We categorize infrastructure into three types based on its primary function: **economic**, **social** and **environmental**. Economic infrastructure encompasses facilities that support business activities, such as telecommunication, energy supply systems, and transport and distribution networks. Social infrastructure comprises facilities providing social services, such as schools and hospitals. Environmental infrastructure, linked to living conditions and ecosystem services, includes resources such as water and waste facilities, green spaces, clean air, and thermal comfort. This multi-dimensional conceptualization of infrastructure leads to an enhanced understanding of the diverse ways in which individuals meet their needs and communities manage public goods across regions.
 
  
-![](https://thutyecology.github.io/images/infrastructure-framework.png){:height="200px" width="800px"}
+![](https://thutyecology.github.io/images/infrastructure-framework.png){:height="200px" width="600px"}
 
 Conceptual framework and research design. a, Definition and classification of economic, social and environmental infrastructure in this study. b, Overview of the research design.
 
