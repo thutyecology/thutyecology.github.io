@@ -52,7 +52,7 @@ The map was generated using numerous publicly available satellite imagery and a 
 | Maize            | 5      |
 
 
-![](https://thutyecology.github.io/images/ukriane-crop.png)
+![](https://thutyecology.github.io/images/ukraine-crop.png)
 
 <center>The 10-m crop type map of Ukraine in 2020.</center>
 
