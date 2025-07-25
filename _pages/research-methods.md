@@ -14,7 +14,7 @@ author_profile: false
 }
 
 .research-card {
-  width: 700px;
+  width: 600px;
   border-radius: 10px;
   overflow: hidden;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
@@ -29,7 +29,7 @@ author_profile: false
 
 .research-card img {
   width: 100%;
-  height: 400px;
+  height: 450px;
   object-fit: cover;
 }
 
