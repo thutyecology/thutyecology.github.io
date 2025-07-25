@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /research/methods-euluc/
+permalink: /research/methods/euluc/
 author_profile: false
 title: Essential Urban Land Use Categories (EULUC)
 ---
