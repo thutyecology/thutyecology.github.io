@@ -48,14 +48,14 @@ author_profile: false
 <div class="research-card">
   <a href="/research/equity/greenspace">
     <img src="/images/greenspace.png">
-    <div class="research-card-title">Greenspace Exposure</div>
+    <div class="research-card-title">Greenspace</div>
   </a>
 </div>
 
 <div class="research-card">
   <a href="/research/equity/infrastructure">
     <img src="/images/infrastructure.png">
-    <div class="research-card-title">Infrastructure Inequality</div>
+    <div class="research-card-title">Infrastructure</div>
   </a>
 </div>
 
