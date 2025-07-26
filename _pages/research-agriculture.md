@@ -47,7 +47,7 @@ author_profile: false
 <div class="research-card">
   <a href="/research/agriculture/ruwar">
     <img src="/images/war.png">
-    <div class="research-card-title">War Impact on Agriculture</div>
+    <div class="research-card-title">War Impact on Crop Yield</div>
   </a>
 </div>
 
