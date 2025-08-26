@@ -7,6 +7,21 @@ author_profile: true
 
 -----------------------------------------------------------------
 
+[Latest as of August 2025] CACD 2022 and 2023 are now available!
+-----
+
+**Extended Data on China's 30-m Annual Cropland Dataset for 1990–2023 (CACD-v1)**
+
+The 30-m Annual Cropland Dataset of China (CACD) provides long-term, high-resolution maps of cropland extent across the country and has been widely applied in diverse studies. To meet the growing needs of the research community, we have extended the dataset to include the years 2022 and 2023, reprocessing all spatial tiles on the Google Earth Engine platform. In this updated version, minor methodological adjustments were introduced to further improve classification accuracy. For details on the mapping procedures and performance, please refer to the attached document.
+
+* Download URL: [https://zenodo.org/records/16927779](https://zenodo.org/records/16927779){:target="_blank"}
+* Data format: GeoTIFF (.tif)
+* Pixel size: 30 m (∼ 0.00027°)
+* Projection: EPSG: 4326 (WGS84)
+* Values: 1 denotes cropland and 0 denotes non-cropland
+
+Reference: Ying Tu, Shengbiao Wu, Bin Chen, Qihao Weng, Yuqi Bai, Jun Yang, Le Yu, and Bing Xu*. A 30 m annual cropland dataset of China from 1986 to 2021. Earth System Science Data 16 (2024): 2297–2316. https://doi.org/10.5194/essd-16-2297-2024
+
 The 30 m annual cropland dataset of China from 1986 to 2021 (CACD)
 -----
 
