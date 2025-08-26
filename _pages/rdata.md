@@ -20,7 +20,6 @@ The 30-m Annual Cropland Dataset of China (CACD) provides long-term, high-resolu
 * Projection: EPSG: 4326 (WGS84)
 * Values: 1 denotes cropland and 0 denotes non-cropland
 
-Reference: Ying Tu, Shengbiao Wu, Bin Chen, Qihao Weng, Yuqi Bai, Jun Yang, Le Yu, and Bing Xu*. A 30 m annual cropland dataset of China from 1986 to 2021. Earth System Science Data 16 (2024): 2297–2316. https://doi.org/10.5194/essd-16-2297-2024
 
 The 30 m annual cropland dataset of China from 1986 to 2021 (CACD)
 -----
