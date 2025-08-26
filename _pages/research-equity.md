@@ -54,7 +54,7 @@ author_profile: false
 
 <div class="research-card">
   <a href="/research/equity/infrastructure">
-    <img src="/images/infrastructure.png">
+    <img src="/images/nhb-cover.webp">
     <div class="research-card-title">Infrastructure</div>
   </a>
 </div>
