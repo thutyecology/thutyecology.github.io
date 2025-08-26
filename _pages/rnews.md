@@ -12,6 +12,9 @@ author_profile: true
 * [**Latest update!**] The 30-m Annual Cropland Data of China (CACD) for 2022 and 2023 are now available! The Data can be accessed via either [Zendo](https://zenodo.org/records/16927779){:target="_blank"} or [Google Earth Engine](https://code.earthengine.google.com/5831d84eb0d767490c00a1ef686ff626){:target="_blank"} 
 * Our [paper](https://www.nature.com/articles/s41562-025-02208-3){:target="_blank"} is featured on the cover *Nature Human Behaviour* this month! Check out the latest issue [here](https://www.nature.com/nathumbehav/volumes/9/issues/8){:target="_blank"}.
 
+![](https://thutyecology.github.io/images/nhb-cover-202508.PNG){:height="300px" width="600px"}
+
+
 **July 2025**
 
 * Our manuscript ["Inequality in infrastructure access and its association with health disparities"](https://www.nature.com/articles/s41562-025-02208-3){:target="_blank"} has been shortlisted for the **August 2025 cover** by *Nature Human Behaviour*. Dr. Tu was also interviewed by *Nature Portfolio* to discuss this work and her research experience.
