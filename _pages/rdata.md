@@ -7,10 +7,10 @@ author_profile: true
 
 -----------------------------------------------------------------
 
-[Latest as of August 2025] CACD 2022 and 2023 are now available!
+[Latest as of August 2025] Extended Data on China's 30-m Annual Cropland Dataset for 1990–2023 (CACD-v1)
 -----
 
-**Extended Data on China's 30-m Annual Cropland Dataset for 1990–2023 (CACD-v1)**
+**CACD 2022 and 2023 are now available!**
 
 The 30-m Annual Cropland Dataset of China (CACD) provides long-term, high-resolution maps of cropland extent across the country and has been widely applied in diverse studies. To meet the growing needs of the research community, we have extended the dataset to include the years 2022 and 2023, reprocessing all spatial tiles on the Google Earth Engine platform. In this updated version, minor methodological adjustments were introduced to further improve classification accuracy. For details on the mapping procedures and performance, please refer to the attached document.
 
