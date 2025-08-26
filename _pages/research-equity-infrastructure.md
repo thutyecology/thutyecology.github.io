@@ -5,7 +5,7 @@ author_profile: false
 title: Inequality in infrastructure access and its association with health disparities
 ---
 
-![](https://thutyecology.github.io/images/nhb-cover.webp){:height="400px" width="300px"}
+![](https://thutyecology.github.io/images/nhb-cover.webp){:height="500px" width="350px"}
 
 Economic, social and environmental infrastructure forms a fundamental pillar of societal development. Ensuring equitable access to infrastructure for all residents is crucial for achieving the Sustainable Development Goals, yet knowledge gaps remain in infrastructure accessibility and inequality and their associations with human health. Here we generate gridded maps of economic, social and environmental infrastructure distribution and apply population-weighted exposure models and mixed-effects regressions to investigate differences in population access to infrastructure and their health implications across 166 countries. The results reveal contrasting inequalities in infrastructure access across regions and infrastructure types. Global South countries experience only 50–80% of the infrastructure access of Global North countries, whereas their associated inequality levels are 9–44% higher. Both infrastructure access and inequality are linked to health outcomes, with this relationship being especially pronounced in economic infrastructure. These findings underscore the necessity of informed decision-making to rectify infrastructure disparities for promoting human well-being.
 
