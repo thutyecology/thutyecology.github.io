@@ -10,9 +10,11 @@ author_profile: true
 **August 2025**
 
 * [**Latest update!**] The 30-m Annual Cropland Data of China (CACD) for 2022 and 2023 are now available! The Data can be accessed via either [Zendo](https://zenodo.org/records/16927779){:target="_blank"} or [Google Earth Engine](https://code.earthengine.google.com/5831d84eb0d767490c00a1ef686ff626){:target="_blank"} 
-* Our [paper](https://www.nature.com/articles/s41562-025-02208-3){:target="_blank"} is featured on the cover *Nature Human Behaviour* this month! Check out the latest issue [here](https://www.nature.com/nathumbehav/volumes/9/issues/8){:target="_blank"}.
+* Our [paper](https://www.nature.com/articles/s41562-025-02208-3){:target="_blank"} is featured on the cover *Nature Human Behaviour* this month! Check out the latest issue [here](https://www.nature.com/nathumbehav/volumes/9/issues/8){:target="_blank"}. The study is also highlighted by *Tsinghua Research*—read more details [here](https://www.tsinghua.edu.cn/en/Research/Research_Feature.htm){:target="_blank"}).
 
 ![](https://thutyecology.github.io/images/nhb-cover-202508.PNG){:height="700px" width="1000px"}
+
+![](https://thutyecology.github.io/images/nhb-tsinghua-news.PNG){:height="700px" width="1000px"}
 
 
 **July 2025**
