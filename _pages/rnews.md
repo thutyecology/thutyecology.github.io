@@ -14,7 +14,7 @@ author_profile: true
 
 ![](https://thutyecology.github.io/images/nhb-cover-202508.PNG){:height="700px" width="1000px"}
 
-![](https://thutyecology.github.io/images/nhb-tsinghua-news.PNG){:height="700px" width="1000px"}
+![](https://thutyecology.github.io/images/nhb-tsinghua-news.PNG){:height="600px" width="800px"}
 
 
 **July 2025**
