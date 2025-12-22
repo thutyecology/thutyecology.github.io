@@ -12,9 +12,15 @@ author_profile: true
 
 **Articles in Peer-reviewed Journals**
 
-[24] **Ying Tu**, Bin Chen\*, Chuan Liao\*, Shengbiao Wu, Jiafu An, Chen Lin, Peng Gong, Bin Chen, Hong Wei, Bing Xu\*. [Inequality in infrastructure access and its association with health disparities](https://www.nature.com/articles/s41562-025-02208-3). *Nature Human Behaviour*. (2025).
+[27] **Ying Tu**, Radine Rafols, Yangyang Xu, Natalia Butler, Linah Ababneh, Feng Tao, Veerabhadran Ramanathan, Benjamin Z. Houlton, Chuan Liao\*. Scaling Up Enhanced Rock Weathering for Equitable Climate Change Mitigation. *Communications Sustainability* (2026). In press.
 
-[23] Tao Liu, Le Yu, Xiaoxuan Liu, Dailiang Peng, Xin Chen, Zhenrong Du, **Ying Tu**, Hui Wu, Qiang Zhao. [A Global Review of Monitoring Cropland Abandonment using Remote Sensing methodology: Tempo-spatial Patterns, Causes, Ecological Effects, and Future Prospects](https://spj.science.org/doi/10.34133/remotesensing.0584). *Journal of Remote Sensing* (2025).
+[26] Chuan Liao, Jenny Kao-Kniffin, Matthew C Reid, Wendong Zhang, Precious Tshabalala, Erik Andrus, Zachary Butler-Jones, Jordan LaPoint, Shuai Zhou, Radine Rafols, Seongmin Shin, Mai Ichihara, Autumn Pereira, Natalia Butler, **Ying Tu**, and Susan R McCouch\*. [Rice Farming for Climate Change Adaptation in the Northeastern United States](https://doi.org/10.1073/pnas.2402181122). *Proceedings of the National Academy of Sciences of the United States of America* 122, no. 49 (2025).
+
+[25] Hong Wei, Bin Chen, Yi Yin, Tao Zhang, **Ying Tu**, and Bing Xu\*. [Distinct dominant factors of spatially heterogenous urban tree cooling identified in cities across China](https://www.sciencedirect.com/science/article/pii/S1470160X25011367). *Ecological Indicators* 179 (2025): 114204.
+
+[24] **Ying Tu**, Bin Chen\*, Chuan Liao\*, Shengbiao Wu, Jiafu An, Chen Lin, Peng Gong, Bin Chen, Hong Wei, and Bing Xu\*. [Inequality in infrastructure access and its association with health disparities](https://www.nature.com/articles/s41562-025-02208-3). *Nature Human Behaviour*. (2025).
+
+[23] Tao Liu, Le Yu, Xiaoxuan Liu, Dailiang Peng, Xin Chen, Zhenrong Du, **Ying Tu**, Hui Wu, and Qiang Zhao. [A Global Review of Monitoring Cropland Abandonment using Remote Sensing methodology: Tempo-spatial Patterns, Causes, Ecological Effects, and Future Prospects](https://spj.science.org/doi/10.34133/remotesensing.0584). *Journal of Remote Sensing* (2025).
 
 [22] Tian Tian, Le Yu\*, **Ying Tu**, Bin Chen, and Peng Gong\*. [Mapping the Time-Series of Essential Urban Land Use Categories in China: A Multi-Source Data Integration Approach](https://www.mdpi.com/2072-4292/16/17/3125). *Remote Sensing* 16.17 (2024): 3125.
 
