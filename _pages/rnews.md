@@ -7,6 +7,13 @@ author_profile: true
 
 --------------------------------------------------
 
+**December 2025**
+
+* Dr. Tu attended the *AGU25 Annual Meeting* in New Orleans, Louisiana, where she presented a poster on "Crop Switching as a Key Strategy for Climate Change Adaptation: Insights from Floodplain Rice Farming in the United States".
+* One manuscript "Scaling Up Enhanced Rock Weathering for Equitable Climate Change Mitigation" has been accepted by *Communications Sustainability*.
+* One co-authored manuscript "Rice farming for climate change adaptation in the Northeastern United States" has been published in *Proceedings of the National Academy of Sciences*.
+
+
 **August 2025**
 
 * [**Latest update!**] The 30-m Annual Cropland Data of China (CACD) for 2022 and 2023 are now available! The data can be accessed via either [Zendo](https://zenodo.org/records/16927779){:target="_blank"} or [Google Earth Engine](https://code.earthengine.google.com/5831d84eb0d767490c00a1ef686ff626){:target="_blank"}.
