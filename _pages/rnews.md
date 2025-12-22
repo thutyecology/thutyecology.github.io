@@ -9,7 +9,7 @@ author_profile: true
 
 **December 2025**
 
-* Dr. Tu attended the *AGU25 Annual Meeting* in New Orleans, Louisiana, where she presented a poster on "Crop Switching as a Key Strategy for Climate Change Adaptation: Insights from Floodplain Rice Farming in the United States".
+* Dr. Tu attended the **AGU25 Annual Meeting** in New Orleans, Louisiana, where she presented a poster on "Crop Switching as a Key Strategy for Climate Change Adaptation: Insights from Floodplain Rice Farming in the United States".
 * One manuscript "Scaling Up Enhanced Rock Weathering for Equitable Climate Change Mitigation" has been accepted by *Communications Sustainability*.
 * One co-authored manuscript "Rice farming for climate change adaptation in the Northeastern United States" has been published in *Proceedings of the National Academy of Sciences*.
 
