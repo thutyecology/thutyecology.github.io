@@ -7,11 +7,6 @@ author_profile: true
 
 --------------------------------------------------
 
-**February 2026**
-
-* 
-
-
 **December 2025**
 
 * Dr. Tu attended the **AGU25 Annual Meeting** in New Orleans, Louisiana, where she presented a poster on "Crop Switching as a Key Strategy for Climate Change Adaptation: Insights from Floodplain Rice Farming in the United States".
