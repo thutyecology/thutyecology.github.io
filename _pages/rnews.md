@@ -7,6 +7,11 @@ author_profile: true
 
 --------------------------------------------------
 
+**February 2026**
+
+* Check our lastest article on ["Scaling Up Enhanced Rock Weathering for Equitable Climate Change Mitigation"](https://www.nature.com/articles/s44458-026-00034-w){:target="_blank"} in *Communications Sustainability* (Also see associated report in [Cornell Chronicle](https://news.cornell.edu/stories/2026/02/widespread-enhanced-rock-weathering-could-slow-global-warming){:target="_blank"}).
+
+
 **December 2025**
 
 * Dr. Tu attended the **AGU25 Annual Meeting** in New Orleans, Louisiana, where she presented a poster on "Crop Switching as a Key Strategy for Climate Change Adaptation: Insights from Floodplain Rice Farming in the United States".
