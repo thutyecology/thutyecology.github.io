@@ -7,6 +7,8 @@ author_profile: true
 
 --------------------------------------------------
 
+* Our [study](https://www.nature.com/articles/s43247-024-01488-3){:target="_blank"} on the impacts of the Russia–Ukraine war on agricultural production has been selected as a [**Research Highlight**](https://www.nature.com/articles/s43247-026-03496-x){:target="_blank"} by *Communications Earth & Environment*.
+
 **February 2026**
 
 * Check our lastest article on ["Scaling Up Enhanced Rock Weathering for Equitable Climate Change Mitigation"](https://www.nature.com/articles/s44458-026-00034-w){:target="_blank"} in *Communications Sustainability* (Also see associated report in [Cornell Chronicle](https://news.cornell.edu/stories/2026/02/widespread-enhanced-rock-weathering-could-slow-global-warming){:target="_blank"}).
