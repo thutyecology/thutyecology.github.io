@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Postdoctoral Associate at the [Department of Global Development, Cornell University](https://cals.cornell.edu/global-development){:target="_blank"}. I obtained my Ph.D. in Ecology from the [Department of Earth System Science, Tsinghua University](https://www.dess.tsinghua.edu.cn/){:target="_blank"} in 2024 and my B.S. in Geographical Information Science from Sun Yat-sen University in 2019. My research interests focus on harnessing GIS, remote sensing, and computational approaches to monitor global environmental change and enhance our understanding of human–environment interactions.
+I am currently a Postdoctoral Research Associate at the [Department of Geography, Sustainability, Community, and Urban Studies, University of Connecticut](https://geography-sustainability-community-urban.uconn.edu/){:target="_blank"}. I worked as a Postdoctoral Associate at the [Department of Global Development, Cornell University](https://cals.cornell.edu/global-development){:target="_blank"} from 2024 to 2026. I obtained my Ph.D. in Ecology from the [Department of Earth System Science, Tsinghua University](https://www.dess.tsinghua.edu.cn/){:target="_blank"} in 2024 and my B.S. in Geographical Information Science from Sun Yat-sen University in 2019. My research interests focus on harnessing GIS, remote sensing, and computational approaches to monitor global environmental change and enhance our understanding of human–environment interactions.
 
 
 Research Interests
@@ -25,7 +25,8 @@ Education Background
 
 Work Experience
 ======
-* Postdoctoral Associate, Cornell University, 2024-present
+* Postdoctoral Research Associate, University of Connecticut, 2026-present
+* Postdoctoral Associate, Cornell University, 2024-2026
 * Research Assistant, The University of Hong Kong, 2022-2023
 
 <!--
