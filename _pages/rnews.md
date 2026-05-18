@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 --------------------------------------------------
+**May 2026**
+* Dr. Tu started a new position as a Postdoctoral Research Associate at the University of Connecticut.
+
 **April 2026**
 * Our [study](https://www.nature.com/articles/s43247-024-01488-3){:target="_blank"} on the impacts of the Russia–Ukraine war on agricultural production has been selected as a [**Research Highlight**](https://www.nature.com/articles/s43247-026-03496-x){:target="_blank"} by *Communications Earth & Environment*.
 
