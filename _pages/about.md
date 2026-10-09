@@ -12,10 +12,11 @@ I am currently a Postdoctoral Research Associate at the [Department of Geography
 
 Research Interests
 ======
-* GeoAI and Remote Sensing
+* GIScience, GeoAI, and Remote Sensing
 * Human–Environment Interactions
-* Exposure, Equity, and Well-being
-* Climate Hazard and Agricultural Sustainability
+* Environmental Sustainability and Justice
+* Infrastructure Access and Human Well-being
+* Climate Adaptation and Resilience
 
 
 Education Background
